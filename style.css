@@ -10,7 +10,7 @@ li {
 
 a {
     text-decoration: none;
-    color: #1c2833;
+    color: #082d50;
 }
 p {
     line-height: 1.5rem;
@@ -41,7 +41,7 @@ body {
     display: flex;
     align-items: center;
     height: 30px;
-    background-color: #1c2833;
+    background-color: #082d50;
     justify-content: space-between;
 }
 
@@ -83,7 +83,7 @@ body {
     height: 100px;
     align-items: center;
     justify-content: space-between;
-    background-color: #082d50;
+    background-color: white;
     position: sticky;
     top: 0px;
     z-index: 999;
@@ -100,7 +100,7 @@ body {
 }
 
 .navbar>.navbar-menu-items>ul>li>a {
-    color: #f6f8ff;
+    color: #082d50;
 }
 .navbar>.navbar-menu-items>ul>li>a:hover {
     color: #e80003;
@@ -121,7 +121,7 @@ body {
     opacity: 0;
     transform: translateY(10px);
     transition: opacity 0.3s ease, transform 0.3s ease;
-    background-color: #f6f8ff;
+    background-color: white;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     z-index: 1000;
     padding: 1rem 0;
@@ -129,12 +129,12 @@ body {
 }
 .navbar>.navbar-menu-items>ul>li > ul > li {
     padding: 8px 20px;
-    width: 220px;
+    width: 280px;
     display: flex;
     align-items: center;
 }
 .navbar>.navbar-menu-items>ul>li > ul > li > a {
-    color: #1c2833;
+    color: #082d50;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -169,7 +169,7 @@ body {
     z-index: -1;
     height: 0;
     width: 0;
-    background-color: #f6f8ff;
+    background-color: #082d50;
     transition: height .5s ease-out, width .5s ease-out;
 }
 
@@ -191,7 +191,7 @@ body {
     height: 100%;
 }
 .navbar>.navbar-button>a:hover {
-    color: #1c2833;
+    color: white;
 }
 
 
@@ -208,7 +208,7 @@ body {
 --------------styling for the sidebar----------------
 */
 .sidebar {
-    background-color: #f6f8ff;
+    background-color: white;
     position: sticky;
     top: 0;
     z-index: 1001;
@@ -245,7 +245,7 @@ body {
     height: 0;
     width: 0;
     z-index: -1;
-    background-color: #06268b;
+    background-color: #082d50;
     transition: height .5s ease-in-out, width .5s ease-in-out;
 }
 .sidebar > .sidebar-logo-button-hamburger > .sidebar-button-hamburger > li > a::before {
@@ -263,15 +263,18 @@ body {
     height: 100%;
     width: 100%;
 }
+.sidebar > .sidebar-logo-button-hamburger > .sidebar-button-hamburger > li > a:hover {
+    color: white;
+}
 .sidebar > .sidebar-logo-button-hamburger > .sidebar-button-hamburger > li > span {
-    color: #1c2833;
+    color: #082d50;
     font-size: 30px;
 }
 .sidebar > .sidebar-menu-items {
     position: absolute;
     top: 100%; 
     height: 100dvh;
-    background: #f6f8ff;
+    background: white;
     width: 100%;                
     transform: translateX(-100%);
     transition: transform 0.3s ease-in-out;
@@ -290,13 +293,13 @@ body {
 .sidebar > .sidebar-menu-items > ul > li {
     padding: 18px 0;
     border-bottom: 1px solid lightgray;
-    color: #1c2833;
+    color: #082d50;
 }
 .sidebar > .sidebar-menu-items > ul > li:hover {
     color: #e80003;
 }
 .sidebar > .sidebar-menu-items > ul > li > a {
-    color: #1c2833;
+    color: #082d50;
 }
 .sidebar > .sidebar-menu-items > ul > li > a:hover {
     color: #e80003;
@@ -319,7 +322,7 @@ body {
     border-bottom: 1px solid lightgray;
 }
 .sidebar > .sidebar-menu-items > ul > li:nth-child(2) > ul > li > a {
-    color: #1c2833;
+    color: #082d50;
 }
 .sidebar > .sidebar-menu-items > ul > li:nth-child(2) > ul > li > a:hover {
     color: #e80003;
@@ -399,7 +402,7 @@ body {
 }
 
 .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide>.hero-carousel-slide-info>div>small {
-    background-color: #1c2833;
+    background-color: #082d50;
     padding: 5px 10px;
     font-size: 16px;
 }
@@ -424,7 +427,7 @@ body {
 
 .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide>.hero-carousel-slide-info>div>a:hover {
     background-color: white;
-    color: #1c2833;
+    color: #082d50;
 }
 
 .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide::before {
@@ -516,7 +519,7 @@ body {
 }
 
 .where-do-we-need-ation>div>h2 {
-    color: #082d50;
+    color: #0b416f;
     font-size: 3vw;
 }
 
@@ -529,7 +532,7 @@ body {
 
 .where-do-we-need-ation>div>.where-do-we-need-ation-cards>.where-do-we-need-ation-card {
     height: 120px;
-    background-color: #f6f8ff;
+    background-color: #e9f0f6;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -547,7 +550,7 @@ body {
 }
 
 .where-do-we-need-ation>div>.where-do-we-need-ation-cards>.where-do-we-need-ation-card>.where-do-we-need-ation-card-title>h3 {
-    color: #1c2833;
+    color: #0b416f;
 }
 
 .where-do-we-need-ation>div>.where-do-we-need-ation-cards>.where-do-we-need-ation-card>.where-do-we-need-ation-card-title>h3>span>i {
@@ -648,7 +651,7 @@ body {
 .about-section {
     padding: 50px 5vw;
     overflow: hidden;
-    background: linear-gradient(white 0% 15%, #f6f8ff 15% 100%);
+    background: linear-gradient(white 0% 15%, #e9f0f6 15% 100%);
 }
 
 .about-section>div {
@@ -665,7 +668,7 @@ body {
 .about-section>div>.workDone-and-happyCustomers-cards>.workDone-and-happyCustomers-card {
     height: 220px;
     width: 220px;
-    background-color: #06268b;
+    background-color: #082d50;
     color: white;
     padding: 30px;
     display: flex;
@@ -675,7 +678,7 @@ body {
 }
 
 .about-section>div>.workDone-and-happyCustomers-cards>.workDone-and-happyCustomers-card>h4 {
-    color: #1b99fe;
+    color: #e80003;
 }
 
 .about-section>div>.workDone-and-happyCustomers-cards>.workDone-and-happyCustomers-card>h2 {
@@ -683,7 +686,7 @@ body {
 }
 
 .about-section>div>.workDone-and-happyCustomers-cards>.workDone-and-happyCustomers-card>span {
-    color: #1b99fe;
+    color: #e80003;
     font-size: 20px;
 }
 
@@ -703,7 +706,7 @@ body {
     height: 320px;
     width: 320px;
     border-radius: 50%;
-    border: 5px dotted #06268b;
+    border: 5px dotted #082d50;
     animation-name: rotateOuterCircle1;
     animation-timing-function: linear;
     animation-duration: 20s;
@@ -725,7 +728,7 @@ body {
     height: 280px;
     width: 280px;
     border-radius: 50%;
-    background-image: url(./assets/images/index-about-section/first-img.webp);
+    background-image: url(./assets/images/index-about-section/first-img.jpg);
     background-size: 100% 100%;
 }
 
@@ -751,13 +754,13 @@ body {
 
 .about-section>div>.about-us>div>.about-us-title>h4 {
     text-align: center;
-    color: #1b99fe;
+    color: #e80003;
 }
 
 .about-section>div>.about-us>div>.about-us-title>h2 {
     text-align: center;
     font-size: 3vw;
-    color: #06268b;
+    color: #0b416f;
 }
 
 .about-section>div>.about-us>div>.about-us-title>p {
@@ -782,7 +785,7 @@ body {
 }
 
 .about-section>div>.about-us>div>.about-us-cards>ul>li>h2 {
-    color: #06268b;
+    color: #0b416f;
     display: flex;
     align-items: center;
     gap: 15px;
@@ -791,7 +794,7 @@ body {
 .about-section>div>.about-us>div>.about-us-cards>ul>li>h2>span {
     width: 50px;
     height: 3px;
-    background-color: #1b99fe;
+    background-color: #0b416f;
     display: inline-block;
     border-radius: 2px;
     display: none;
@@ -836,7 +839,7 @@ body {
     position: absolute;
     height: 320px;
     width: 320px;
-    border: 5px dotted #06268b;
+    border: 5px dotted #082d50;
     animation-name: rotateOuterCircle2;
     animation-duration: 25s;
     animation-iteration-count: infinite;
@@ -858,7 +861,7 @@ body {
     height: 280px;
     width: 280px;
     border-radius: 50%;
-    background-image: url(./assets/images/index-about-section/image.webp);
+    background-image: url(./assets/images/index-about-section/second-img.jpg);
     background-size: 100% 100%;
 }
 
@@ -1028,8 +1031,8 @@ body {
 .marquee-content h2 {
     white-space: nowrap;
     font-size: 48px;
-    color: #1b99fe;
-    opacity: 0.5;
+    color: #0b416f;
+    opacity: .9;
     display: inline-block;
     margin-right: 50px;
 }
@@ -1059,7 +1062,7 @@ body {
     width: 25%;
     height: 500px;
     background-color: white;
-    color: #06268b;
+    color: #0b416f;
     padding: 20px 55px 20px 0px;
     display: flex;
     flex-direction: column;
@@ -1068,7 +1071,7 @@ body {
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-info>h4 {
-    color: #1b99fe;
+    color: #e80003;
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-info>h2 {
@@ -1088,7 +1091,7 @@ body {
 .services-we-think-difrnt>.services-we-think-difrnt-info>.services-we-think-difrnt-cards-nav>.services-we-think-difrnt-card-prev,
 .services-we-think-difrnt>.services-we-think-difrnt-info>.services-we-think-difrnt-cards-nav>.services-we-think-difrnt-card-next {
     font-size: 42px;
-    color: #1b99fe;
+    color: #0b416f;
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards {
@@ -1108,8 +1111,16 @@ body {
     width: 300px;
     background-color: cadetblue;
     position: relative;
+    overflow: hidden;
 }
-
+.services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card:hover::before {
+    transform: scale(1);
+    transition: transform .5s ease-in-out;
+}
+.services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card:hover .services-we-think-difrnt-card-content {
+    transform: translateY(-5px);
+    transition: transform .5s ease-in-out;
+}
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card::before {
     content: '';
     position: absolute;
@@ -1117,6 +1128,7 @@ body {
     width: 100%;
     z-index: -1;
     background-size: 100% 100%;
+    transform: scale(1.05);
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card::after {
@@ -1126,7 +1138,7 @@ body {
     width: 100%;
     z-index: 0;
     background-color: black;
-    opacity: .5;
+    opacity: .6;
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card>.services-we-think-difrnt-card-content {
@@ -1135,42 +1147,47 @@ body {
     inset: 0;
     color: white;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 30px 20px;
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card>.services-we-think-difrnt-card-content>.content-title>h4 {
-    color: #1b99fe;
+    color: #e80003;
+    text-align: center;
 }
-
+.services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card>.services-we-think-difrnt-card-content>.content-title>h2 {
+    text-align: center;
+    margin-top: 10px;
+}
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card>.services-we-think-difrnt-card-content>.content-img>img {
     height: 70px;
     width: 70px;
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card1::before {
-    background-image: url(./assets/images/index-services-we-think-differ/card1.webp);
+    background-image: url(./assets/images/index-services-we-think-differ/card1.png);
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card2::before {
-    background-image: url(./assets/images/index-services-we-think-differ/card2.webp);
+    background-image: url(./assets/images/index-services-we-think-differ/card2.png);
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card3::before {
-    background-image: url(./assets/images/index-services-we-think-differ/card3.webp);
+    background-image: url(./assets/images/index-services-we-think-differ/card3.png);
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card4::before {
-    background-image: url(./assets/images/index-services-we-think-differ/card4.webp);
+    background-image: url(./assets/images/index-services-we-think-differ/card4.jpg);
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card5::before {
-    background-image: url(./assets/images/index-services-we-think-differ/card5.webp);
+    background-image: url(./assets/images/index-services-we-think-differ/card5.jpg);
 }
 
 .services-we-think-difrnt>.services-we-think-difrnt-cards>.services-we-think-difrnt-card-wrapper>.services-we-think-difrnt-card6::before {
-    background-image: url(./assets/images/index-services-we-think-differ/card6.webp);
+    background-image: url(./assets/images/index-services-we-think-differ/card6.jpg);
 }
 
 
@@ -1321,11 +1338,11 @@ body {
 }
 
 .whyChooseUs-section>.why-choose-us>.whyChooseUs-info>h4 {
-    color: #1b99fe;
+    color: #e80003;
 }
 
 .whyChooseUs-section>.why-choose-us>.whyChooseUs-info>h2 {
-    color: #06268b;
+    color: #0b416f;
     font-size: 3vw;
 }
 
@@ -1346,7 +1363,8 @@ body {
 }
 
 .whyChooseUs-section>.why-choose-us>.whyChooseUs-info>.whyChooseUs-info-icons>.whyChooseUs-info-icon:hover .whyChooseUs-info-icon-circle {
-    background-color: #06268b;
+    background-color: #082d50;
+    color: #e80003;
 }
 
 .whyChooseUs-section>.why-choose-us>.whyChooseUs-info>.whyChooseUs-info-icons>.whyChooseUs-info-icon:hover {
@@ -1358,11 +1376,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f6f8ff;
+    background-color: #e9f0f6;
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    color: #1b99fe;
+    color: #0b416f;
     flex-shrink: 0;
 }
 .whyChooseUs-section > .why-choose-us > .whyChooseUs-info > .whyChooseUs-info-icons > .whyChooseUs-info-icon > .whyChooseUs-info-icon-circle > h2 {
@@ -1411,7 +1429,6 @@ body {
         width: 100%;
     }
     .whyChooseUs-section > .why-choose-us > .whyChooseUs-info > h2 {
-        color: #06268b;
         font-size: 8vw;
     }
     #whyChooseUs-comparison {
@@ -1438,7 +1455,6 @@ body {
         width: 100%;
     }
     .whyChooseUs-section > .why-choose-us > .whyChooseUs-info > h2 {
-        color: #06268b;
         font-size: 8vw;
     }
     #whyChooseUs-comparison {
@@ -1470,7 +1486,6 @@ body {
         width: 100%;
     }
     .whyChooseUs-section > .why-choose-us > .whyChooseUs-info > h2 {
-        color: #06268b;
         font-size: 7vw;
     }
     #whyChooseUs-comparison {
@@ -1502,7 +1517,6 @@ body {
         width: 100%;
     }
     .whyChooseUs-section > .why-choose-us > .whyChooseUs-info > h2 {
-        color: #06268b;
         font-size: 6vw;
     }
     #whyChooseUs-comparison {
@@ -1525,42 +1539,41 @@ body {
 ------------------styling for the stories for patients------------------
 */
 
-.stories-for-patient {
+.success-stories-section {
     padding: 50px 5vw;
 }
 
-.stories-for-patient > .patient-stories {
+.success-stories-section > .success-stories {
     display: flex;
     flex-direction: column;
     height: auto;
     gap: 50px;
 }
-
-.stories-for-patient >.patient-stories >.stories-title {
+.success-stories-section > .success-stories >.stories-title {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 15px;
 }
 
-.stories-for-patient > .patient-stories > .stories-title h4 {
-    color: #1b99fe;
+.success-stories-section > .success-stories > .stories-title h4 {
+    color: #e80003;
 }
 
-.stories-for-patient > .patient-stories > .stories-title h2 {
-    color: #06268b;
+.success-stories-section > .success-stories > .stories-title h2 {
+    color: #0b416f;
     font-size: 3vw;
     text-align: center;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards {
+.success-stories-section > .success-stories > .stories-cards {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
     justify-content: center;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card {
+.success-stories-section > .success-stories > .stories-cards > .stories-card {
     height: 200px;
     width: 300px;
     background-color: aliceblue;
@@ -1568,12 +1581,12 @@ body {
     overflow: hidden;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card:hover::before {
+.success-stories-section > .success-stories > .stories-cards > .stories-card:hover::before {
     transform: scale(1);
     transition: all .5s ease;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card::before {
+.success-stories-section > .success-stories > .stories-cards > .stories-card::before {
     content: '';
     position: absolute;
     inset: 0;
@@ -1581,12 +1594,12 @@ body {
     transform: scale(1.05);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card:hover .stories-card-title {
+.success-stories-section > .success-stories > .stories-cards > .stories-card:hover .stories-card-title {
     transform: translateX(0%);
     opacity: 1;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card > .stories-card-title {
+.success-stories-section > .success-stories > .stories-cards > .stories-card > .stories-card-title {
     position: absolute;
     z-index: 2;
     background-color: white;
@@ -1601,53 +1614,45 @@ body {
     transition: transform .5s linear, opacity .5s linear;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card > .stories-card-title h4 {
-    color: #1b99fe;
+.success-stories-section > .success-stories > .stories-cards > .stories-card > .stories-card-title h4 {
+    color: #e80003;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card > .stories-card-title h2 {
-    color: #06268b;
+.success-stories-section > .success-stories > .stories-cards > .stories-card > .stories-card-title h2 {
+    color: #0b416f;
     margin-top: 5px;
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card1::before {
-    background-image: url(./assets/images/index-stories-for-patient/card1.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card1::before {
+    background-image: url(./assets/images/index-success-stories-section/card1.jpg);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card2::before {
-    background-image: url(./assets/images/index-stories-for-patient/card2.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card2::before {
+    background-image: url(./assets/images/index-success-stories-section/card2.jpg);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card3::before {
-    background-image: url(./assets/images/index-stories-for-patient/card3.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card3::before {
+    background-image: url(./assets/images/index-success-stories-section/card3.jpg);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card4::before {
-    background-image: url(./assets/images/index-stories-for-patient/card4.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card4::before {
+    background-image: url(./assets/images/index-success-stories-section/card4.jpg);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card5::before {
-    background-image: url(./assets/images/index-stories-for-patient/card5.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card5::before {
+    background-image: url(./assets/images/index-success-stories-section/card5.avif);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card6::before {
-    background-image: url(./assets/images/index-stories-for-patient/card6.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card6::before {
+    background-image: url(./assets/images/index-success-stories-section/card6.avif);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card7::before {
-    background-image: url(./assets/images/index-stories-for-patient/card7.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card7::before {
+    background-image: url(./assets/images/index-success-stories-section/card7.jpg);
 }
 
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card8::before {
-    background-image: url(./assets/images/index-stories-for-patient/card8.webp);
-}
-
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card9::before {
-    background-image: url(./assets/images/index-stories-for-patient/card9.webp);
-}
-
-.stories-for-patient > .patient-stories > .stories-cards > .stories-card10::before {
-    background-image: url(./assets/images/index-stories-for-patient/card10.webp);
+.success-stories-section > .success-stories > .stories-cards > .stories-card8::before {
+    background-image: url(./assets/images/index-success-stories-section/card8.avif);
 }
 
 
@@ -1655,17 +1660,17 @@ body {
 /* responsive design for the stories of the patient of mobile and tab screens */
 
 @media (min-width: 320px) and (max-width: 600px) {
-    .stories-for-patient > .patient-stories > .stories-title h2 {
+    .success-stories-section > .success-stories > .stories-title h2 {
         font-size: 8vw;
     }
 }
 @media (min-width: 601px) and (max-width: 800px) {
-    .stories-for-patient > .patient-stories > .stories-title h2 {
+    .success-stories-section > .success-stories > .stories-title h2 {
         font-size: 7vw;
     }
 }
 @media (min-width: 801px) and (max-width: 1000px) {
-    .stories-for-patient > .patient-stories > .stories-title h2 {
+    .success-stories-section > .success-stories > .stories-title h2 {
         font-size: 6vw;
     }
 }
@@ -1677,45 +1682,45 @@ body {
 ----------------styling for the what is therapy process---------------
 */
 
-.therapy-process-section {
+.manufacture-process-section {
     padding: 50px 5vw;
 }
 
-.therapy-process-section>.therapy-process {
+.manufacture-process-section > .manufacture-process {
     display: flex;
     flex-direction: column;
     gap: 50px;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-title {
+.manufacture-process-section > .manufacture-process > .manufacture-process-title {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-title>.therapy-process-title-title>h2 {
-    color: #06268b;
+.manufacture-process-section > .manufacture-process > .manufacture-process-title > .manufacture-process-title-title>h2 {
+    color: #0b416f;
     font-size: 3vw;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-title>.therapy-process-title-title>p {
+.manufacture-process-section>.manufacture-process>.manufacture-process-title>.manufacture-process-title-title>p {
     color: gray;
     font-size: large;
     margin-top: 20px;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-title>.therapy-process-title-button {
+.manufacture-process-section>.manufacture-process>.manufacture-process-title>.manufacture-process-title-button {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-title>.therapy-process-title-button::before {
+.manufacture-process-section>.manufacture-process>.manufacture-process-title>.manufacture-process-title-button::before {
     content: '';
     position: absolute;
     height: 150px;
     width: 150px;
-    border: 3px dotted #06268b;
+    border: 3px dotted #082d50;
     border-radius: 50%;
     animation-name: therapyProcessTitleButton;
     animation-duration: 25s;
@@ -1734,9 +1739,9 @@ body {
     }
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-title>.therapy-process-title-button>a {
+.manufacture-process-section>.manufacture-process>.manufacture-process-title>.manufacture-process-title-button>a {
     color: #f6f8ff;
-    background-color: #1b99fe;
+    background-color: #e80003;
     height: 130px;
     width: 130px;
     border-radius: 50%;
@@ -1744,16 +1749,18 @@ body {
     justify-content: center;
     align-items: center;
     z-index: 2;
+    text-align: center;
+    font-size: large;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 10px;
     justify-content: center;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step {
     height: 500px;
     display: flex;
     flex-direction: column;
@@ -1763,26 +1770,26 @@ body {
     gap: 50px;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step2,
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step4 {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step2,
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step4 {
     display: flex;
     flex-direction: column-reverse;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image::before {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image::before {
     content: '';
     position: absolute;
     z-index: 0;
     height: 250px;
     width: 250px;
     border-radius: 50%;
-    border: 3px dotted #1b99fe;
+    border: 3px dotted #082d50;
     animation-name: therapyProcessStepCircle;
     animation-timing-function: linear;
     animation-duration: 25s;
@@ -1801,12 +1808,12 @@ body {
     }
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step:hover .therapy-process-step-image::before {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step:hover .manufacture-process-step-image::before {
     opacity: 1;
     transition: opacity .5s linear;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image>.therapy-process-step-img {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image>.manufacture-process-step-img {
     height: 230px;
     width: 230px;
     background-color: #1b99fe;
@@ -1814,64 +1821,64 @@ body {
     background-size: 100% 100%;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image>.therapy-process-step-img1 {
-    background-image: url(./assets/images/index-therapy-process/step1.webp);
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image>.manufacture-process-step-img1 {
+    background-image: url(./assets/images/index-therapy-process/step1.jpg);
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image>.therapy-process-step-img2 {
-    background-image: url(./assets/images/index-therapy-process/step2.webp);
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image>.manufacture-process-step-img2 {
+    background-image: url(./assets/images/index-therapy-process/step2.jpg);
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image>.therapy-process-step-img3 {
-    background-image: url(./assets/images/index-therapy-process/step3.webp);
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image>.manufacture-process-step-img3 {
+    background-image: url(./assets/images/index-therapy-process/step3.jpg);
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-image>.therapy-process-step-img4 {
-    background-image: url(./assets/images/index-therapy-process/step4.webp);
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-image>.manufacture-process-step-img4 {
+    background-image: url(./assets/images/index-therapy-process/step4.jpg);
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-info {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-info {
     display: flex;
     flex-direction: column;
     gap: 20px;
     text-align: center;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-info>h2 {
-    color: #06268b;
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-info>h2 {
+    color: #0b416f;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-info>p {
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-info>p {
     color: gray;
 }
 
-.therapy-process-section>.therapy-process>.therapy-process-steps>.therapy-process-step>.therapy-process-step-info>h3 {
-    color: #1b99fe;
+.manufacture-process-section>.manufacture-process>.manufacture-process-steps>.manufacture-process-step>.manufacture-process-step-info>h3 {
+    color: #e80003;
 }
 
 
 /* responsive design for the therapy process section of mobile and tab screens */
 
 @media (min-width: 320px) and (max-width: 589px) {
-    .therapy-process-section>.therapy-process>.therapy-process-title {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-title {
         gap: 20px;
     }
-    .therapy-process-section>.therapy-process>.therapy-process-title {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-title {
         flex-direction: column;
     }
-    .therapy-process-section>.therapy-process>.therapy-process-title>.therapy-process-title-title>h2 {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-title > .manufacture-process-title-title>h2 {
         font-size: 8vw;
     }
-    .therapy-process-section > .therapy-process > .therapy-process-steps  >.therapy-process-step:nth-child(1) {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-steps  >.manufacture-process-step:nth-child(1) {
         flex-direction: column-reverse;
     }
-    .therapy-process-section > .therapy-process > .therapy-process-steps  >.therapy-process-step:nth-child(1) > .therapy-process-step-info > h3 {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-steps  >.manufacture-process-step:nth-child(1) > .manufacture-process-step-info > h3 {
         order: -1;
     }
-    .therapy-process-section > .therapy-process > .therapy-process-steps  >.therapy-process-step:nth-child(3) {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-steps  >.manufacture-process-step:nth-child(3) {
         flex-direction: column-reverse;
     }
-    .therapy-process-section > .therapy-process > .therapy-process-steps  >.therapy-process-step:nth-child(3) > .therapy-process-step-info > h3 {
+    .manufacture-process-section > .manufacture-process > .manufacture-process-steps  >.manufacture-process-step:nth-child(3) > .manufacture-process-step-info > h3 {
         order: -1;
     }
 }
@@ -1897,7 +1904,7 @@ body {
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(#fff, #fff), url("./assets/images/blog-page/card1.png");
+    background: linear-gradient(#fff, #fff), url("./assets/images/index-testimonials/background.jpg");
     background-size: 100% 20%, 100% 80%;
     background-repeat: no-repeat;
     background-position: top, bottom; 
@@ -1907,7 +1914,7 @@ body {
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(to bottom, #fff 0% 20%, transparent 20% 100%),linear-gradient(to right,#06268b 0% 50%, transparent 100%);
+    background: linear-gradient(to bottom, #fff 0% 20%, transparent 20% 100%),linear-gradient(to right,#082d50 0% 50%, transparent 100%);
     opacity: .8;
     z-index: 1;
 }
@@ -1963,7 +1970,7 @@ body {
     font-weight: normal;
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .awards-and-marquee > .awards-section > .awards > .award:hover > h3 {
-    color: #1b99fe;
+    color: #0b416f;
     transition: all .4s ease-in-out;
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .awards-and-marquee > .awards-marquee-section {
@@ -1977,7 +1984,7 @@ body {
     animation: awardsMarquee 13s linear infinite;
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .awards-and-marquee > .awards-marquee-section > .awards-marquee-track > h2 {
-    color: #06268b;
+    color: #0b416f;
     font-size: 100px;
     font-weight: normal;
     white-space: nowrap;
@@ -2031,7 +2038,7 @@ body {
     flex-shrink: 0;
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .testimonials-section > .testimonialSwiper > .testimonial-wrapper > .testimonial-card > .testimonial-card-cust-name > .testimonial-card-cust-name-name > p {
-    color: #1b99fe;
+    color: #e80003;
     margin-top: 10px;
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .testimonials-section > .testimonialSwiper > .testimonial-wrapper > .testimonial-card > .testimonial-card-cust-name > .testimonial-card-cust-name-img1 {
@@ -2041,16 +2048,16 @@ body {
     background-image: url(./assets/images/index-testimonials/user2.png);
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .testimonials-section > .testimonialSwiper > .testimonial-wrapper > .testimonial-card > .testimonial-card-cust-name > .testimonial-card-cust-name-img3 {
-    background-image: url(./assets/images/index-testimonials/user3.png);
+    background-image: url(./assets/images/index-testimonials/user6.png);
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .testimonials-section > .testimonialSwiper > .testimonial-wrapper > .testimonial-card > .testimonial-card-cust-name > .testimonial-card-cust-name-img4 {
-    background-image: url(./assets/images/index-testimonials/user4.png);
+    background-image: url(./assets/images/index-testimonials/user6.png);
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .testimonials-section > .testimonialSwiper > .testimonial-wrapper > .testimonial-card > .testimonial-card-cust-name > .testimonial-card-cust-name-img5 {
     background-image: url(./assets/images/index-testimonials/user5.png);
 }
 .awards-and-testimonils-section > .awards-and-testimonils > .testimonials-section > .testimonialSwiper > .testimonial-wrapper > .testimonial-card > .testimonial-card-cust-name > .testimonial-card-cust-name-img6 {
-    background-image: url(./assets/images/index-testimonials/user6.png);
+    background-image: url(./assets/images/index-testimonials/user3.png);
 }
 
 

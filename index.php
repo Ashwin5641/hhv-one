@@ -38,6 +38,7 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" crossorigin>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" crossorigin>
 
+
     <!-- ---------------link for the swiper js for the carousel---------------- -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" as="style" crossorigin>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" crossorigin>
@@ -295,19 +296,19 @@
             <div class="about-us">
                 <div>
                     <div class="about-us-title">
-                        <h4>About Sri Sai Balaji Physiotherapy Clinic</h4>
-                        <h2>We Treat The Individual, Not Just The Injury</h2>
-                        <p>Many athletes will have negative thoughts and experiences during injury recovery, which may adversely affect their motivation and willingness .</p>
+                        <h4>About HHV Thermal Technologies</h4>
+                        <h2>Leaders in Thermal & Vacuum Engineering</h2>
+                        <p>With decades of expertise, we deliver world-class thermal and vacuum furnaces—powering aerospace, defence, metallurgy, and space research with precision and reliability.</p>
                     </div>
                     <div class="about-us-cards">
                         <ul>
                             <li>
                                 <h2>Our Mission<span></span></h2>
-                                <p>Our communities as the premier provider of adult rehabilitation care.</p>
+                                <p>Deliver reliable, sustainable thermal solutions globally.</p>
                             </li>
                             <li>
                                 <h2>Our Vision <span></span></h2>
-                                <p>Our Clinc is committed, to providing an exceptional, patient care experience</p>
+                                <p>Lead innovative vacuum and thermal solutions worldwide.</p>
                             </li>
                         </ul>
                     </div>
@@ -331,44 +332,44 @@
     <div class="marquee-text">
         <div class="marquee-content">
             <h2>
-                Sri Sai Balaji Physiotherapy Clinic – Manual Therapy
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Electrotherapy
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Pain Relief
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Sports Rehab
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Postural Correction
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Mobility Enhancement
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Injury Recovery
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Strength Training
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Sri Sai Balaji Physiotherapy Clinic
+                HHV Thermal Technologies – Vacuum Furnaces
+                <span><i class="fa-solid fa-gear"></i></span>
+                Heat Treatment
+                <span><i class="fa-solid fa-wrench"></i></span>
+                Vacuum Brazing
+                <span><i class="fa-solid fa-gear"></i></span>
+                Thermal Coating
+                <span><i class="fa-solid fa-wrench"></i></span>
+                Aerospace Solutions
+                <span><i class="fa-solid fa-gear"></i></span>
+                Defence Applications
+                <span><i class="fa-solid fa-wrench"></i></span>
+                Metallurgy
+                <span><i class="fa-solid fa-gear"></i></span>
+                Space Research
+                <span><i class="fa-solid fa-wrench"></i></span>
+                HHV Thermal Technologies
             </h2>
             <!-- Duplicate for seamless loop -->
             <h2>
-                Sri Sai Balaji Physiotherapy Clinic – Manual Therapy
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Electrotherapy
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Pain Relief
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Sports Rehab
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Postural Correction
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Mobility Enhancement
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Injury Recovery
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Strength Training
-                <span><i class="fa-solid fa-snowflake"></i></span>
-                Sri Sai Balaji Physiotherapy Clinic
-                <h2>
+                HHV Thermal Technologies – Vacuum Furnaces
+                <span><i class="fa-solid fa-gear"></i></span>
+                Heat Treatment
+                <span><i class="fa-solid fa-wrench"></i></span>
+                Vacuum Brazing
+                <span><i class="fa-solid fa-gear"></i></span>
+                Thermal Coating
+                <span><i class="fa-solid fa-wrench"></i></span>
+                Aerospace Solutions
+                <span><i class="fa-solid fa-gear"></i></span>
+                Defence Applications
+                <span><i class="fa-solid fa-wrench"></i></span>
+                Metallurgy
+                <span><i class="fa-solid fa-gear"></i></span>
+                Space Research
+                <span><i class="fa-solid fa-wrench"></i></span>
+                HHV Thermal Technologies
+            </h2>
         </div>
     </div>
 
@@ -378,7 +379,7 @@
         <div class="services-we-think-difrnt-info">
             <h4>Services</h4>
             <h2>We Think Differently.</h2>
-            <p>The human body is exceedingly versatile, which implies that the human body can shockingly be proficiently wasteful</p>
+            <p>Engineering solutions that push boundaries in thermal and vacuum technology..</p>
             <div class="services-we-think-difrnt-cards-nav">
                 <div class="services-we-think-difrnt-card-prev"><i class="fa-solid fa-arrow-left"></i></div>
                 <div class="services-we-think-difrnt-card-next"><i class="fa-solid fa-arrow-right"></i></div>
@@ -389,8 +390,8 @@
                 <a href="#" class="services-we-think-difrnt-card swiper-slide services-we-think-difrnt-card1">
                     <div class="services-we-think-difrnt-card-content">
                         <div class="content-title">
-                            <h4>Leg Pain</h4>
-                            <h2>Arthritis</h2>
+                            <h4>Innovation in Design</h4>
+                            <h2>Custom-engineered furnaces for unique challenges</h2>
                         </div>
                         <div class="content-img">
                             <img src="./assets/images/index-services-we-think-differ/icon1.png" alt="">
@@ -400,8 +401,8 @@
                 <a href="#" class="services-we-think-difrnt-card swiper-slide services-we-think-difrnt-card2">
                     <div class="services-we-think-difrnt-card-content">
                         <div class="content-title">
-                            <h4>Diathermy</h4>
-                            <h2>Strains and Sprains</h2>
+                            <h4>Precision Engineering</h4>
+                            <h2>Every system built for accuracy & consistency</h2>
                         </div>
                         <div class="content-img">
                             <img src="./assets/images/index-services-we-think-differ/icon2.png" alt="">
@@ -411,8 +412,8 @@
                 <a href="#" class="services-we-think-difrnt-card swiper-slide services-we-think-difrnt-card3">
                     <div class="services-we-think-difrnt-card-content">
                         <div class="content-title">
-                            <h4>Osteopaths</h4>
-                            <h2>Paralysis</h2>
+                            <h4>Sustainable Technology</h4>
+                            <h2>Energy-efficient solutions for a greener future</h2>
                         </div>
                         <div class="content-img">
                             <img src="./assets/images/index-services-we-think-differ/icon3.png" alt="">
@@ -422,8 +423,8 @@
                 <a href="#" class="services-we-think-difrnt-card swiper-slide services-we-think-difrnt-card4">
                     <div class="services-we-think-difrnt-card-content">
                         <div class="content-title">
-                            <h4>Taping</h4>
-                            <h2>Amputations</h2>
+                            <h4>End-to-End Support</h4>
+                            <h2>From concept to commissioning & beyond</h2>
                         </div>
                         <div class="content-img">
                             <img src="./assets/images/index-services-we-think-differ/icon4.png" alt="">
@@ -433,8 +434,8 @@
                 <a href="#" class="services-we-think-difrnt-card swiper-slide services-we-think-difrnt-card5">
                     <div class="services-we-think-difrnt-card-content">
                         <div class="content-title">
-                            <h4>Diathermy</h4>
-                            <h2>Neurological</h2>
+                            <h4>Global Standards</h4>
+                            <h2>Quality trusted by aerospace & defence leaders</h2>
                         </div>
                         <div class="content-img">
                             <img src="./assets/images/index-services-we-think-differ/icon5.png" alt="">
@@ -444,8 +445,8 @@
                 <a href="#" class="services-we-think-difrnt-card swiper-slide services-we-think-difrnt-card6">
                     <div class="services-we-think-difrnt-card-content">
                         <div class="content-title">
-                            <h4>Intermist</h4>
-                            <h2>Brain Injury</h2>
+                            <h4>Tailored Solutions</h4>
+                            <h2>Designed to meet industry-specific needs</h2>
                         </div>
                         <div class="content-img">
                             <img src="./assets/images/index-services-we-think-differ/icon6.png" alt="">
@@ -463,30 +464,30 @@
         <div class="why-choose-us">
             <div class="whyChooseUs-info">
                 <h4>Why Choose Us</h4>
-                <h2>We help you to better manufacturing</h2>
-                <p>Use the latest research in physical therapy to work better, play better—and spend more time on what really matters.</p>
+                <h2>Engineering Excellence You Can Trust.</h2>
+                <p>We design and manufacture advanced furnaces and vacuum systems, delivering precision, sustainability, and performance for the world’s most demanding industries..</p>
                 <div class="whyChooseUs-info-icons">
                     <div class="whyChooseUs-info-icon">
                         <div class="whyChooseUs-info-icon-circle">
-                            <h2><i class="fa-regular fa-thumbs-up"></i></h2>
+                            <h2><i class="fa-solid fa-award"></i></h2>
                         </div>
                         <div class="whyChooseUs-info-icon-title">
-                            <h3>Certified & Awards winner</h3>
-                            <p>Researcher in Neuro Physiotherapy' Global Outreach Healthcare Award 2023.</p>
+                            <h3>Innovation in Design</h3>
+                            <p>Cutting-edge solutions built on advanced R&D and precision engineering.</p>
                         </div>
                     </div>
                     <div class="whyChooseUs-info-icon">
                         <div class="whyChooseUs-info-icon-circle">
-                            <h2><i class="fa-regular fa-handshake"></i></i></h2>
+                            <h2><i class="fa-regular fa-lightbulb"></i></i></h2>
                         </div>
                         <div class="whyChooseUs-info-icon-title">
-                            <h3>Innovative Product Solutions</h3>
-                            <p>An effective campaign demands a great deal of time and planning run a marketing.</p>
+                            <h3>Global Standards</h3>
+                            <p>Systems built to meet international benchmarks of safety, quality, and performance..</p>
                         </div>
                     </div>
                     <div class="whyChooseUs-info-icon">
                         <div class="whyChooseUs-info-icon-circle">
-                            <h2><i class="fa-regular fa-face-smile"></i></h2>
+                            <h2><i class="fa-solid fa-earth-asia"></i></h2> 
                         </div>
                         <div class="whyChooseUs-info-icon-title">
                             <h3>We will definitely be back!</h3>
@@ -503,59 +504,59 @@
 
 
     <!-- ----------------start of the stories for patients---------------- -->
-    <div class="stories-for-patient">
-        <div class="patient-stories">
+    <div class="success-stories-section">
+        <div class="success-stories">
             <div class="stories-title">
-                <h4>Stories For Patients</h4>
-                <h2>See Our Latest Case Studies</h2>
+                <h4>Case Studies</h4>
+                <h2>Our Thermal & Vacuum Success Stories</h2>
             </div>
             <div class="stories-cards">
                 <div class="stories-card stories-card1">
                     <div class="stories-card-title">
-                        <h4>Back Pain</h4>
-                        <h2>Cost of Physiotherapy In India</h2>
+                        <h4>Aerospace</h4>
+                        <h2>Precision heat treatment for turbine blades</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card2">
                     <div class="stories-card-title">
-                        <h4>Back Pain, Elbow Pain</h4>
-                        <h2>Physiotherapy Sub Specialities</h2>
+                        <h4>Defense</h4>
+                        <h2>Vacuum brazing solutions for critical components</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card3">
                     <div class="stories-card-title">
-                        <h4>Elbow Pain, Hand Pain</h4>
-                        <h2>Women&rsquo;s Health physiotherapist</h2>
+                        <h4>Metallurgy</h4>
+                        <h2>Advanced sintering with hot press furnaces</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card4">
                     <div class="stories-card-title">
-                        <h4>Hand Pain, Knee Pain</h4>
-                        <h2>Phoenix Physical Therapy</h2>
+                        <h4>Space Research</h4>
+                        <h2>Simulating outer space with thermal vacuum chambers</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card5">
                     <div class="stories-card-title">
-                        <h4>Knee Pain</h4>
-                        <h2>Personal Best Physical Therapy</h2>
+                        <h4>Energy</h4>
+                        <h2>CVD/PVD coating for long-lasting performance</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card6">
                     <div class="stories-card-title">
-                        <h4>Shoulder Pain</h4>
+                        <h4>Custom Engineering</h4>
                         <h2>Creating a high-impact program</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card7">
                     <div class="stories-card-title">
-                        <h4>Back Pain, Elbow Pain, Hand Pain</h4>
-                        <h2>Measuring social impact</h2>
+                        <h4>Automotive</h4>
+                        <h2>Vacuum furnaces for high-performance parts</h2>
                     </div>
                 </div>
                 <div class="stories-card stories-card8">
                     <div class="stories-card-title">
-                        <h4>Back Pain</h4>
-                        <h2>Obsessive compulsive disorder</h2>
+                        <h4>Electronics</h4>
+                        <h2>Clean processing for semiconductors & devices</h2>
                     </div>
                 </div>
             </div>
@@ -564,66 +565,66 @@
 
 
     <!-- ------------start of the what is therapy process-------------- -->
-    <div class="therapy-process-section">
-        <div class="therapy-process">
-            <div class="therapy-process-title">
-                <div class="therapy-process-title-title">
-                    <h2>What is Therapy Process</h2>
-                    <p>Many researchers view therapeutic process as evidently <br> consisting of the interactions and communications</p>
+    <div class="manufacture-process-section">
+        <div class="manufacture-process">
+            <div class="manufacture-process-title">
+                <div class="manufacture-process-title-title">
+                    <h2>Our Engineering Process</h2>
+                    <p>Many industries trust our proven process as it <br> ensures precision, quality, and innovation at every step</p>
                 </div>
-                <div class="therapy-process-title-button">
+                <div class="manufacture-process-title-button">
                     <a href="#">
-                        Schedule an <br> Appointment
+                        Book a <br> Consultation
                     </a>
                 </div>
             </div>
-            <div class="therapy-process-steps">
-                <div class="therapy-process-step therapy-process-step1">
-                    <div class="therapy-process-step-image">
-                        <div class="therapy-process-step-img therapy-process-step-img1">
+            <div class="manufacture-process-steps">
+                <div class="manufacture-process-step manufacture-process-step1">
+                    <div class="manufacture-process-step-image">
+                        <div class="manufacture-process-step-img manufacture-process-step-img1">
 
                         </div>
                     </div>
-                    <div class="therapy-process-step-info">
-                        <h2>Get Paired With a Therapist</h2>
-                        <p>Although psychotherapy takes many different forms.</p>
+                    <div class="manufacture-process-step-info">
+                        <h2>Requirement Analysis</h2>
+                        <p>Understanding client needs & technical specifications for precision results.</p>
                         <h3>Step 01</h3>
                     </div>
                 </div>
-                <div class="therapy-process-step therapy-process-step2">
-                    <div class="therapy-process-step-image">
-                        <div class="therapy-process-step-img therapy-process-step-img2">
+                <div class="manufacture-process-step manufacture-process-step2">
+                    <div class="manufacture-process-step-image">
+                        <div class="manufacture-process-step-img manufacture-process-step-img2">
 
                         </div>
                     </div>
-                    <div class="therapy-process-step-info">
+                    <div class="manufacture-process-step-info">
                         <h3>Step 02</h3>
-                        <h2>Choose Your Preferred Way To Receive Care</h2>
-                        <p>All of them aim to support individuals in overcoming.</p>
+                        <h2>Design & Engineering</h2>
+                        <p>Creating tailored furnace & vacuum solutions using advanced CAD & simulation.</p>
                     </div>
                 </div>
-                <div class="therapy-process-step therapy-process-step3">
-                    <div class="therapy-process-step-image">
-                        <div class="therapy-process-step-img therapy-process-step-img3">
+                <div class="manufacture-process-step manufacture-process-step3">
+                    <div class="manufacture-process-step-image">
+                        <div class="manufacture-process-step-img manufacture-process-step-img3">
 
                         </div>
                     </div>
-                    <div class="therapy-process-step-info">
-                        <h2>We Help You Get Better, Faster!</h2>
-                        <p>Creating coping mechanisms, and happier and healthier lives.</p>
+                    <div class="manufacture-process-step-info">
+                        <h2>Manufacturing & Assembly</h2>
+                        <p>High-precision manufacturing with strict quality checks & testing.</p>
                         <h3>Step 03</h3>
                     </div>
                 </div>
-                <div class="therapy-process-step therapy-process-step4">
-                    <div class="therapy-process-step-image">
-                        <div class="therapy-process-step-img therapy-process-step-img4">
+                <div class="manufacture-process-step manufacture-process-step4">
+                    <div class="manufacture-process-step-image">
+                        <div class="manufacture-process-step-img manufacture-process-step-img4">
 
                         </div>
                     </div>
-                    <div class="therapy-process-step-info">
+                    <div class="manufacture-process-step-info">
                         <h3>Step 04</h3>
-                        <h2>What Psychotherapy Can Help With</h2>
-                        <p>A skilled and experienced who is certified to evaluate.</p>
+                        <h2>Delivery & Support</h2>
+                        <p>On-time delivery with global service, training & end-to-end customer support.</p>
                     </div>
                 </div>
             </div>
@@ -643,19 +644,19 @@
                             <div class="award-img award-img1">
 
                             </div>
-                            <h3>2021 Physiopedia Superstar Best Award</h3>
+                            <h3>2021 National Engineering Excellence Award</h3>
                         </div>
                         <div class="award">
                             <div class="award-img award-img2">
 
                             </div>
-                            <h3>2022 Social Media Most Impact Award</h3>
+                            <h3>2022 Innovation in Manufacturing Award</h3>
                         </div>
                         <div class="award">
                             <div class="award-img award-img3">
 
                             </div>
-                            <h3>2023 Armadale Regional Business Awards</h3>
+                            <h3>2023 Global Supplier Recognition Award</h3>
                         </div>
                     </div>
                 </div>
@@ -678,15 +679,15 @@
                                 <li><span><i class="fa-solid fa-star-half-stroke"></i></span></li>
                             </div>
                             <div class="testimonial-card-review">
-                                <p>“I am a secretary at a medical office. I started feeling numbness in my right hand and my boss examined me and diagnosed me with Carpal Tunnel Syndrome. He immediately sent me to Hands-On and Physiocare.”</p>
+                                <p>“Their vacuum furnace solutions exceeded our aerospace quality standards. Reliable, precise, and delivered on time.”</p>
                             </div>
                             <div class="testimonial-card-cust-name">
                                 <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img1">
 
                                 </div>
                                 <div class="testimonial-card-cust-name-name">
-                                    <h2>Rakshith R</h2>
-                                    <p>@ Patient</p>
+                                    <h2>Dr. Alan Matthews</h2>
+                                    <p>@ Aerospace Client</p>
                                 </div>
                             </div>
                         </div>
@@ -699,15 +700,15 @@
                                 <li><span><i class="fa-solid fa-star-half-stroke"></i></span></li>
                             </div>
                             <div class="testimonial-card-review">
-                                <p>“I am a secretary at a medical office. I started feeling numbness in my right hand and my boss examined me and diagnosed me with Carpal Tunnel Syndrome. He immediately sent me to Hands-On and Physiocare.”</p>
+                                <p>“We trust them for all our metallurgy projects. Their custom furnaces deliver consistent performance year after year.”</p>
                             </div>
                             <div class="testimonial-card-cust-name">
                                 <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img2">
 
                                 </div>
                                 <div class="testimonial-card-cust-name-name">
-                                    <h2>Narendra</h2>
-                                    <p>@ Patient</p>
+                                    <h2>Michael Tan</h2>
+                                    <p>@ Metallurgy Industry</p>
                                 </div>
                             </div>
                         </div>
@@ -720,15 +721,15 @@
                                 <li><span><i class="fa-solid fa-star-half-stroke"></i></span></li>
                             </div>
                             <div class="testimonial-card-review">
-                                <p>“I am a secretary at a medical office. I started feeling numbness in my right hand and my boss examined me and diagnosed me with Carpal Tunnel Syndrome. He immediately sent me to Hands-On and Physiocare.”</p>
+                                <p>“From concept to delivery, their team supported us with innovation and professionalism. Highly recommended.”</p>
                             </div>
                             <div class="testimonial-card-cust-name">
                                 <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img3">
 
                                 </div>
                                 <div class="testimonial-card-cust-name-name">
-                                    <h2>Simhadri G S</h2>
-                                    <p>@ Patient</p>
+                                    <h2>Sophia Lee</h2>
+                                    <p>@ Energy Sector</p>
                                 </div>
                             </div>
                         </div>
@@ -741,15 +742,15 @@
                                 <li><span><i class="fa-solid fa-star-half-stroke"></i></span></li>
                             </div>
                             <div class="testimonial-card-review">
-                                <p>“I am a secretary at a medical office. I started feeling numbness in my right hand and my boss examined me and diagnosed me with Carpal Tunnel Syndrome. He immediately sent me to Hands-On and Physiocare.”</p>
+                                <p>“Their engineering team customized a vacuum furnace for our R&D lab. The attention to detail and after-sales support are outstanding.”</p>
                             </div>
                             <div class="testimonial-card-cust-name">
-                                <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img1">
+                                <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img4">
 
                                 </div>
                                 <div class="testimonial-card-cust-name-name">
-                                    <h2>Rahul</h2>
-                                    <p>@ Patient</p>
+                                    <h2>Dr. Priya Menon</h2>
+                                    <p>@ Research Institute</p>
                                 </div>
                             </div>
                         </div>
@@ -762,15 +763,15 @@
                                 <li><span><i class="fa-solid fa-star-half-stroke"></i></span></li>
                             </div>
                             <div class="testimonial-card-review">
-                                <p>“I am a secretary at a medical office. I started feeling numbness in my right hand and my boss examined me and diagnosed me with Carpal Tunnel Syndrome. He immediately sent me to Hands-On and Physiocare.”</p>
+                                <p>“We’ve been using their furnaces for over 5 years in our automotive plant — reliability and performance are unmatched.”</p>
                             </div>
                             <div class="testimonial-card-cust-name">
                                 <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img5">
 
                                 </div>
                                 <div class="testimonial-card-cust-name-name">
-                                    <h2>Kiran S</h2>
-                                    <p>@ Patient</p>
+                                    <h2>Andreas Müller</h2>
+                                    <p>@ Automotive Industry</p>
                                 </div>
                             </div>
                         </div>
@@ -783,15 +784,15 @@
                                 <li><span><i class="fa-solid fa-star-half-stroke"></i></span></li>
                             </div>
                             <div class="testimonial-card-review">
-                                <p>“I am a secretary at a medical office. I started feeling numbness in my right hand and my boss examined me and diagnosed me with Carpal Tunnel Syndrome. He immediately sent me to Hands-On and Physiocare.”</p>
+                                <p>“Excellent project management and delivery. Their systems integrated seamlessly into our production line.”</p>
                             </div>
                             <div class="testimonial-card-cust-name">
                                 <div class="testimonial-card-cust-name-img testimonial-card-cust-name-img6">
 
                                 </div>
                                 <div class="testimonial-card-cust-name-name">
-                                    <h2>Quast</h2>
-                                    <p>@ Patient</p>
+                                    <h2>Chen Wei</h2>
+                                    <p>@ Industrial Manufacturing</p>
                                 </div>
                             </div>
                         </div>

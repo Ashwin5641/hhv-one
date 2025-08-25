@@ -1,0 +1,357 @@
+/* import link for the philosopher font from google font */
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+p {
+    line-height: 1.5rem;
+}
+body {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+/* 
+------------------styling for the page title section----------------- 
+*/
+
+.page-title-section > .page-title {
+    height: 400px;
+    width: 100%;
+    position: relative;
+    z-index: 4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.page-title-section > .page-title > * {
+    z-index: 4;
+    color: white;
+    
+}
+.page-title-section > .page-title > h2 {
+    font-size: 3vw;
+}
+.page-title-section > .page-title > .page-title-nav {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.page-title-section > .page-title > .page-title-nav > a {
+    color: white;
+}
+.page-title-section > .page-title::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background-image: url(./assets/images/products/heat-treatment-furnaces/title-image.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.page-title-section > .page-title::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background-color: rgba(7, 20, 59, .60);
+} 
+
+
+
+/* responsive design for the page title section of the mobile and tab screens */
+
+@media (min-width: 320px) and (max-width: 500px) {
+    .page-title-section > .page-title {
+        height: 300px;
+    }
+    .page-title-section > .page-title > h2 {
+        font-size: 8vw;
+    }
+}
+@media (min-width: 501px) and (max-width: 700px) {
+    .page-title-section > .page-title {
+        height: 300px;
+    }
+    .page-title-section > .page-title > h2 {
+        font-size: 6vw;
+    }
+}
+@media (min-width: 701px) and (max-width: 900px) {
+    .page-title-section > .page-title > h2 {
+        font-size: 5vw;
+    }
+}
+
+
+
+
+/* 
+----------------start of the page content section----------------
+*/
+
+.page-content-section {
+    display: flex;
+    gap: 50px;
+    padding: 50px 5vw;
+}
+.page-content-section > .page-content-sidebar {
+    width: 30%;
+    height: auto;
+    padding: 0px 50px;
+}
+.page-content-section > .page-content-sidebar > .sidebar-content-first-section {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.page-content-section > .page-content-info {
+    width: 60%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.page-content-section > .page-content-info > .page-content-info-hero-image {
+    height: 550px;
+    width: 100%;
+    background-image: url(./assets/images/products/heat-treatment-furnaces/hero-image.webp);
+    background-size: 100% 100%;
+}
+.page-content-section > .page-content-info > .page-content-info-title {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: gray;
+}
+.page-content-section > .page-content-info > .page-content-info-title > h1 {
+    color: #0b416f;
+}
+.page-content-section > .page-content-info > .page-content-info-images {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+}
+.page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image {
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+}
+.page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image:hover::before {
+    transform: scale(1);
+    transition: transform .3s ease-in-out;
+}
+.page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background-size: 100% 100%;
+    transform: scale(1.05);
+}
+.page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image1::before {
+    background-image: url(./assets/images/products/heat-treatment-furnaces/sub-image1.webp);
+}
+.page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image2::before {
+    background-image: url(./assets/images/products/heat-treatment-furnaces/sub-image2.jpg);
+}
+.page-content-section > .page-content-info > .page-content-info-points > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.page-content-section > .page-content-info > .page-content-info-points > ul > li {
+    display: flex;
+    gap: 15px;
+}
+.page-content-section > .page-content-info > .page-content-info-points > ul > li > span > i {
+    color: #e80003;
+}
+
+/* === FAQ Section Styling === */
+.page-content-section > .page-content-info > .page-content-info-faq > h1 {
+    color: #0b416f;
+}
+.page-content-section > .page-content-info > .page-content-info-faq > p {
+    margin-top: 20px;
+    color: gray;
+}
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section {
+    margin-top: 40px;
+}
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section > .faq-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section > .faq-item > .faq-question {
+    background: none;
+    border: none;
+    font-size: 18px;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    padding: 10px 0;
+    position: relative;
+    color: #0b416f;
+}
+
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section > .faq-item > .faq-question::after {
+    content: '+';
+    position: absolute;
+    right: 0;
+    top: 10px;
+    font-size: 22px;
+    transition: transform 0.3s ease;
+}
+
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section > .faq-item.active > .faq-question::after {
+    content: '-';
+}
+
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section > .faq-item > .faq-answer {
+    display: none;
+    padding: 10px 0 0;
+    font-size: 16px;
+    color: gray;
+}
+
+.page-content-section > .page-content-info > .page-content-info-faq > .faq-section > .faq-item.active > .faq-answer {
+    display: block;
+}
+
+
+/* responsive design for the page content section of mobile and tab screens */
+
+@media (min-width: 320px) and (max-width: 500px) {
+    .page-content-section {
+        flex-direction: column-reverse;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 100%;
+        padding: 0;
+    }
+    .page-content-section > .page-content-info {
+        width: 100%;
+    }
+    .page-content-section > .page-content-info > .page-content-info-hero-image {
+        height: 90vw;
+    }
+    .page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image {
+        height: auto;
+        min-height: 250px;
+    }
+}
+@media (min-width: 501px) and (max-width: 600px) {
+    .page-content-section {
+        flex-direction: column-reverse;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 100%;
+        padding: 0;
+    }
+    .page-content-section > .page-content-info {
+        width: 100%;
+    }
+    .page-content-section > .page-content-info > .page-content-info-hero-image {
+        height: 85vw;
+    }
+    .page-content-section > .page-content-info > .page-content-info-images > .page-content-info-image {
+        height: auto;
+        min-height: 250px;
+    }
+}
+@media (min-width: 601px) and (max-width: 800px) {
+    .page-content-section {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 80%;
+        padding: 0;
+    }
+    .page-content-section > .page-content-info {
+        width: 80%;
+    }
+}
+@media (min-width: 801px) and (max-width: 900px) {
+    .page-content-section {
+        padding: 50px 5vw;
+        gap: 10px;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 40%;
+        padding: 0;
+    }
+    .page-content-section > .page-content-info {
+        width: 60%;
+    }
+    .page-content-section > .page-content-info > .page-content-info-hero-image {
+        height: 350px;
+    }
+}
+@media (min-width: 901px) and (max-width: 1100px) {
+    .page-content-section {
+        padding: 50px 5vw;
+        gap: 10px;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 35%;
+        padding: 0;
+    }
+    .page-content-section > .page-content-info {
+        width: 65%;
+    }
+    .page-content-section > .page-content-info > .page-content-info-hero-image {
+        height: 400px;
+    }
+}
+@media (min-width: 1101px) and (max-width: 1250px) {
+    .page-content-section {
+        padding: 50px 5vw;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 40%;
+        padding: 0 40px;
+    }
+    .page-content-section > .page-content-info {
+        width: 60%;
+    }
+    .page-content-section > .page-content-info > .page-content-info-hero-image {
+        height: 400px;
+    }
+}
+@media (min-width: 1251px) and (max-width: 1450px) {
+    .page-content-section {
+        padding: 50px 5vw;
+    }
+    .page-content-section > .page-content-sidebar {
+        width: 40%;
+        padding: 0 50px;
+    }
+    .page-content-section > .page-content-info {
+        width: 60%;
+    }
+    .page-content-section > .page-content-info > .page-content-info-hero-image {
+        height: 400px;
+    }
+}

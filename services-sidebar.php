@@ -1,19 +1,19 @@
 <!-- ------------start of the sidebar services lists-------------- -->
 
 <div class="sidebar-services-lists">
-    <a href="#">STRAINS AND SPRAINS<span><i class="fa-solid fa-angle-right"></i></span></a>
-    <a href="#">PARALYSIS<span><i class="fa-solid fa-angle-right"></i></span></a>
-    <a href="#">AMPUTATIONS<span><i class="fa-solid fa-angle-right"></i></span></a>
-    <a href="#">NEUROLOGICAL<span><i class="fa-solid fa-angle-right"></i></span></a>
-    <a href="#">BRAIN INJURY<span><i class="fa-solid fa-angle-right"></i></span></a>
-    <a href="#">ARTHRITIS<span><i class="fa-solid fa-angle-right"></i></span></a>
+    <a href="#">VACUUM BRAZING FURNACE<span><i class="fa-solid fa-angle-right"></i></span></a>
+    <a href="#">VACUUM HOT PRESSES<span><i class="fa-solid fa-angle-right"></i></span></a>
+    <a href="#">VACUUM OVENS<span><i class="fa-solid fa-angle-right"></i></span></a>
+    <a href="#">THERMO VACUUM FURNACES<span><i class="fa-solid fa-angle-right"></i></span></a>
+    <a href="#">ARC RE-MELTING FURNACES<span><i class="fa-solid fa-angle-right"></i></span></a>
+    <a href="#">SPARES AND SERVICES<span><i class="fa-solid fa-angle-right"></i></span></a>
 </div>
 
 
 <!-- -------------start of the sidebar download buttons---------------- -->
 
 <div class="sidebar-download-buttons">
-    <a href="#" download="Clinic_Broucher">Download PDF<span class="material-symbols-outlined">download</span></a>
+    <a href="#" download="Clinic_Broucher">Download Brochure<span class="material-symbols-outlined">download</span></a>
     <a href="#" download="Clinic_Broucher">Download Word File<span class="material-symbols-outlined">download</span></a>
 </div>
 

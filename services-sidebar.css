@@ -7,14 +7,14 @@
     flex-direction: column;
 }
 .sidebar-services-lists > a {
-    background-color: #f6f8ff;
+    background-color: #e9f0f6;
     padding: 18px 30px;
-    color: #06268b;
+    color: #0b416f;
     display: flex;
     justify-content: space-between;
 }
 .sidebar-services-lists > a:hover {
-    background-color: #1b99fe;
+    background-color: #0b416f;
     color: white;
 }
 
@@ -36,20 +36,20 @@
 }
 .sidebar-download-buttons > a:nth-child(1) {
     color: white;
-    background-color: #06268b;
-    border: 2px solid #06268b;
+    background-color: #0b416f;
+    border: 2px solid #0b416f;
 }
 .sidebar-download-buttons > a:nth-child(1):hover {
-    background-color: #1b99fe;
-    border: 2px solid #1b99fe;
+    background-color: #0b416f;
+    border: 2px solid #0b416f;
 }
 .sidebar-download-buttons > a:nth-child(2) {
-    color: #1b99fe;
-    border: 2px solid #1b99fe;
+    color: #0b416f;
+    border: 2px solid #0b416f;
 }
 .sidebar-download-buttons > a:nth-child(2):hover {
-    background-color: #06268b;
-    border: 2px solid #06268b;
+    background-color: #0b416f;
+    border: 2px solid #0b416f;
     color: white;
 }
 
@@ -84,7 +84,7 @@
 }
 .sidebar-banner-image > .sidebar-banner-img > img {
     height: 90px;
-    width: 90px;
+    width: 230px;
     
 }
 .sidebar-banner-image::before {

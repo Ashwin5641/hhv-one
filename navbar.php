@@ -7,17 +7,18 @@
     <div class="navbar-menu-items">
         <ul>
             <li><a href="./index.php">Home</a></li>
-            <li><a href="#">Services&nbsp;&nbsp;<i class="fa-solid fa-angle-down"></i></a>
+            <li><a href="#">Products&nbsp;&nbsp;<i class="fa-solid fa-angle-down"></i></a>
                 <ul>
-                    <li><a href="./orthopedic.php"><span></span>Orthopedic</a></li>
-                    <li><a href="./exercise.php"><span></span>Exercise</a></li>
-                    <li><a href="./strains-and-sprains.php"><span></span>Strains and sprains</a></li>
-                    <li><a href="./paralysis.php"><span></span>Paralysis</a></li>
-                    <li><a href="./amputations.php"><span></span>Amputations</a></li>
-                    <li><a href="./neurological.php"><span></span>Neurological</a></li>
-                    <li><a href="./brain-injury.php"><span></span>Brain injury</a></li>
-                    <li><a href="./arthritis.php"><span></span>Arthritis</a></li>
-                    <li><a href="./joint-mobilization.php"><span></span>Joint Mobilization</a></li>
+                    <li><a href="./heat-treatment-furnaces.php"><span></span>Heat Treatment Furnaces</a></li>
+                    <li><a href="./exercise.php"><span></span>Vacuum Brazing Furnaces</a></li>
+                    <li><a href="./strains-and-sprains.php"><span></span>Vacuum Aluminium Brazing Furnaces</a></li>
+                    <li><a href="./paralysis.php"><span></span>Vacuum Hot Presses</a></li>
+                    <li><a href="./amputations.php"><span></span>Vacuum Ovens</a></li>
+                    <li><a href="./neurological.php"><span></span>Thermo Vacuum Furnaces</a></li>
+                    <li><a href="./brain-injury.php"><span></span>Induction Melting and Casting Furnaces</a></li>
+                    <li><a href="./arthritis.php"><span></span>Arc Re-melting Furnaces</a></li>
+                    <li><a href="./joint-mobilization.php"><span></span>CVD, CVI and Graphitization Furnaces</a></li>
+                    <li><a href="./joint-mobilization.php"><span></span>Spares and Service</a></li>
                 </ul>
             </li>
             <li><a href="./about-us.php">About Us</a></li>
@@ -26,7 +27,7 @@
         </ul>
     </div>
     <div class="navbar-button">
-        <a href="./contact-us.php">Book Appointment&nbsp;&nbsp;></a>
+        <a href="./contact-us.php">Contact&nbsp;&nbsp;></a>
     </div>
 </div>
 
@@ -39,16 +40,16 @@
             <a href="./index.php"><img src="./assets/images/logo.png" alt="Sri Sai Balaji Physiotherapy Clinic"></a>
         </div>
         <div class="sidebar-button-hamburger">
-            <li><a href="./contact-us.php">Book Appointment&nbsp;&nbsp;></a></li>
+            <li><a href="./contact-us.php">Contact&nbsp;&nbsp;></a></li>
             <li class="hamburger"><span><i class="fa-solid fa-bars"></i></span></li>
         </div>
     </div>
     <div class="sidebar-menu-items">
         <ul>
             <li><a href="./index.php">Home</a></li>
-            <li class="services-submenu">Services<span><i class="fa-solid fa-plus"></i></span>
+            <li class="services-submenu">Products<span><i class="fa-solid fa-plus"></i></span>
                 <ul class="services-submenu-items">
-                    <li><a href="./orthopedic.php">Orthopedic</a></li>
+                    <li><a href="./heat-treatment-furnaces.css">Heat Treatment Furnaces</a></li>
                     <li><a href="./exercise.php">Exercise</a></li>
                     <li><a href="./strains-and-sprains.php">Strains and sprains</a></li>
                     <li><a href="./paralysis.php">Paralysis</a></li>
