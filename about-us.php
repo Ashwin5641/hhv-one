@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us | Sri Sai Balaji Physiotherapy Clinic</title>
+    <title>About Us | HHV Thermal Technologies</title>
     <meta name="description" content="Get expert physiotherapy in Bangalore at Sri Sai Balaji Physiotherapy Clinic. Pain relief, sports injury recovery, and post-surgery rehab with personalized care.">
     <meta name="theme-color" content="#ffffff">
 
@@ -59,21 +59,21 @@
                 </div>
             </div>
             <div class="page-about-us-info">
-                <h4>About Sri Sai Balaji Physiotherapy Clinic</h4>
-                <h2>We Treat The Individual, Not Just The Injury.</h2>
+                <h4>About HHV Thermal Technologies</h4>
+                <h2>Designing Advanced Vacuum Furnaces for Critical Industries.</h2>
                 <p>There is a need for a directing order of activity that, while bringing out the human energies, won’t endure them to be squandered.</p>
                 <div class="page-about-us-info-cards">
                     <div class="page-about-us-info-card">
-                        <li><span><i class="fa-solid fa-square-check"></i></span><h3>Better Motion, Better Life</h3></li>
-                        <li><p>Empowering your body with better movement for a stronger, healthier, and happier life.</p></li>
+                        <li><span><i class="fa-solid fa-square-check"></i></span><h3>Precision Engineering</h3></li>
+                        <li><p>Our full-fledged design center with experienced engineers ensures systems meet international standards, including NADCAP and CE certifications.</p></li>
                     </div>
                     <div class="page-about-us-info-card">
                         <li><span><i class="fa-solid fa-square-check"></i></span><h3>Your Recovery, Our Priority</h3></li>
-                        <li><p>Dedicated to your recovery, we restore movement, strength, and confidence for a healthier, active life.</p></li>
+                        <li><p>With decades of expertise, HHV exports coating equipment worldwide and has branches in the UK along with global distributors.</p></li>
                     </div>
                 </div>
                 <div class="page-about-us-info-button">
-                    <a href="./contact-us.php">Book Appointments&nbsp;&nbsp;></a>
+                    <a href="./contact-us.php">Contact Us&nbsp;&nbsp;></a>
                 </div>
             </div>
         </div>
@@ -86,8 +86,8 @@
         <div class="page-our-approach-info-and-missions">
             <div class="page-our-approach-info">
                 <h4>Our Approach</h4>
-                <h2>Personalized driven caring for lasting recovery</h2>
-                <p>At our physiotherapy clinic, we're dedicated to helping you heal, move better, and feel your best personalized treatment plans, expert therapists.</p>
+                <h2>Precision, Innovation, and Reliability in Vacuum Technology</h2>
+                <p>At HHV Thermal Technologies, we focus on designing and manufacturing advanced vacuum furnaces with precision engineering, cutting-edge technology, and a commitment to global quality standards.</p>
             </div>
             <div class="page-our-approach-missions">
                 <div class="page-our-approach-missions-cards">
@@ -125,21 +125,21 @@
             </div>
             <div class="page-our-commitment-info">
                 <h4>Our Commitment</h4>
-                <h2>Healing you beyond the physical</h2>
-                <p>At our physiotherapy clinic, we’re dedicated to helping you heal, move better, and feel your best personalized treatment plans, expert therapists.</p>
+                <h2>Delivering Excellence in Vacuum Technology</h2>
+                <p>At HHV Thermal Technologies, we are committed to precision, innovation, and reliability, ensuring our vacuum furnaces meet the highest international standards for critical industries.</p>
                 <div class="page-our-commitment-info-cards">
                     <div class="page-our-commitment-info-card">
                         <img src="./assets/images/about-us/our-commitment/icon1.png" alt="">
                         <div class="page-our-commitment-info-card-info">
-                            <h3>Comfort First</h3>
-                            <p>Guided therapy for lasting relief.</p>
+                            <h3>Precision Engineering</h3>
+                            <p>Systems designed for optimal performance.</p>
                         </div>
                     </div>
                     <div class="page-our-commitment-info-card">
                         <img src="./assets/images/about-us/our-commitment/icon2.png" alt="">
                         <div class="page-our-commitment-info-card-info">
-                            <h3>Better Days</h3>
-                            <p>Guided therapy for lasting relief.</p>
+                            <h3>Global Standards</h3>
+                            <p>Compliant with NADCAP and CE certifications.</p>
                         </div>
                     </div>
                 </div>
@@ -159,48 +159,48 @@
     <div class="page-our-feature-section">
         <div class="page-our-feature">
             <h3>Our Feature</h3>
-            <h2>Our feature as means choosing <br> exceptional features</h2>
+            <h2>Why Choose HHV Thermal <br> Technologies</h2>
             <div class="page-our-feature-cards">
                 <div class="page-our-feature-card">
                     <img src="./assets/images/about-us/our-feature/icon1.png" alt="">
-                    <h3>Pain Relief Therapy</h3>
-                    <p>Our Pain Relief Therapy focuses reducing discomfort.</p>
+                    <h3>Precision Engineering</h3>
+                    <p>High-quality designs for reliable and efficient vacuum furnaces.</p>
                 </div>
                 <div class="page-our-feature-card">
                     <img src="./assets/images/about-us/our-feature/icon2.png" alt="">
-                    <h3>Post Surgery Care </h3>
-                    <p>Our Post Surgery Care focuses reducing discomfort.</p>
+                    <h3>Advanced Technology </h3>
+                    <p>Cutting-edge systems meeting international industry standards.</p>
                 </div>
                 <div class="page-our-feature-card">
                     <img src="./assets/images/about-us/our-feature/icon3.png" alt="">
-                    <h3>Flexible Scheduling </h3>
-                    <p>Our Flexible Scheduling focuses reducing discomfort.</p>
+                    <h3>Custom Solutions </h3>
+                    <p>Tailored furnaces for aerospace, defence, automotive, and more.</p>
                 </div>
                 <div class="page-our-feature-card">
                     <img src="./assets/images/about-us/our-feature/icon4.png" alt="">
-                    <h3>One-on-One Support </h3>
-                    <p>Our One-on-One Support focuses reducing discomfort.</p>   
+                    <h3>Global Support</h3>
+                    <p>Comprehensive service and support for optimal system performance.</p>   
                 </div>
             </div>
             <div class="page-our-feature-insights">
                 <div class="page-our-feature-insight">
-                    <p>Interesting and Unexpected Facts You Didn't Know About Physiotherapy</p>
+                    <p>Key Highlights of HHV Thermal Technologies</p>
                 </div>
                 <div class="page-our-feature-insight">
-                    <h2>5k</h2>
-                    <p>Happy Customer</p>
+                    <h2>60+</h2>
+                    <p>Years of Expertise</p>
                 </div>
                 <div class="page-our-feature-insight">
-                    <h2>20+</h2>
-                    <p>Experience Doctor</p>
+                    <h2>1k+</h2>
+                    <p>Custom Furnaces Delivered</p>
                 </div>
                 <div class="page-our-feature-insight">
                     <h2>98%</h2>
                     <p>Positive customer review</p>
                 </div>
                 <div class="page-our-feature-insight">
-                    <h2>30+</h2>
-                    <p>Project Complete</p>
+                    <h2>50+</h2>
+                    <p>GLobal Projects Complete</p>
                 </div>
             </div>
         </div>

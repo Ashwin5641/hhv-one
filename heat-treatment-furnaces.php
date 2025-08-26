@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>heat-treatment-furnaces | HHV Thermal Technologies</title>
+    <title>Heat Treatment Furnaces | HHV Thermal Technologies</title>
     <link rel="icon" href="./assets/images/favicon.png" type="x-image/icon">
 
     <!-- --------------link for the styling service page--------------- -->
@@ -36,7 +36,7 @@
 
     <div class="page-title-section">
         <div class="page-title">
-            <h4>Products</h4>
+            <h4>PRODUCTS</h4>
             <h2>Heat Treatment Furnaces</h2>
             <div class="page-title-nav">
                 <a href="./index.php">Home</a>

@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercise | Sri Sai Balaji Physiotherapy Clinic</title>
+    <title>Vacuum Aluminium Brazing Furnaces | HHV Thermal Technologies</title>
     <link rel="icon" href="./assets/images/favicon.png" type="x-image/icon">
 
     <!-- --------------link for the styling service page--------------- -->
     <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="./exercise.css">
+    <link rel="stylesheet" href="./vacuum-aluminium-brazing-furnaces.css">
     <link rel="stylesheet" href="./services-sidebar.css">
 
 
@@ -36,14 +36,14 @@
 
     <div class="page-title-section">
         <div class="page-title">
-            <h4>SERVICE</h4>
-            <h2>Exercise</h2>
+            <h4>PRODUCTS</h4>
+            <h2>Vacuum Aluminium Brazing Furnaces</h2>
             <div class="page-title-nav">
                 <a href="./index.php">Home</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
                 <a href="#">Services</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
-                <a href="#">Exercise</a>
+                <a href="#">Vacuum Aluminium Brazing Furnaces</a>
             </div>
         </div>
     </div>

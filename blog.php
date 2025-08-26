@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog | Sri Sai Balaji Physiotherapy Clinic</title>
+    <title>Blog | HHV Thermal Technologies</title>
     <meta name="description" content="Get expert physiotherapy in Bangalore at Sri Sai Balaji Physiotherapy Clinic. Pain relief, sports injury recovery, and post-surgery rehab with personalized care.">
     <meta name="theme-color" content="#ffffff">
 
@@ -59,7 +59,7 @@
             <div class="page-title-nav">
                 <a href="./index.php">Home</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
-                <a href="#">Services</a>
+                <a href="#">Products</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
                 <a href="#">Blog</a>
             </div>
@@ -76,7 +76,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Top Benefits of Physiotherapy for Pain Relief</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Top Benefits of Physiotherapy for Physiotherapy</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Stretching Techniques for Better Flexibility & Strength</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Top Benefits of Physiotherapy for Pain Relief</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Top Benefits of Physiotherapy for Physiotherapy</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Stretching Techniques for Better Flexibility & Strength</h2>
+                        <h2>Lorem ipsum, dolor sit amet consectetur adipisicing.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Top Benefits of Physiotherapy for Pain Relief</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -139,7 +139,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Top Benefits of Physiotherapy for Physiotherapy</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>
@@ -148,7 +148,7 @@
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Stretching Techniques for Better Flexibility & Strength</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
                         <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
                     </div>
                 </div>

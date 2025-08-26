@@ -61,7 +61,7 @@ body {
     position: absolute;
     inset: 0;
     z-index: 0;
-    background-image: url(./assets/images/contact-us/title-image.jpg);
+    background-image: url(./assets/images/contact-us/title-image.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -131,14 +131,14 @@ body {
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url(./assets/images/contact-us/contact-form.jpg);
+    background-image: url(./assets/images/contact-us/hero-image.png);
     background-size: 100% 100%;
     z-index: 0;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-image > .contact-form-img > .open-timings {
     height: 120px;
     width: 100%;
-    background-color: #06268b;
+    background-color: #0b416f;
     z-index: 4;
     position: absolute;
     bottom: 0;
@@ -148,13 +148,13 @@ body {
     gap: 20px;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-image > .contact-form-img > .open-timings > .open-timings-icon {
-    color: #1b99fe;
+    color: #e80003;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-image > .contact-form-img > .open-timings > .open-timings-icon > span > i {
     font-size: 38px;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-image > .contact-form-img > .open-timings > .open-timings-info {
-    color: #1b99fe;
+    color: #e80003;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-image > .contact-form-img > .open-timings > .open-timings-info > P {
     color: white;
@@ -174,7 +174,7 @@ body {
     position: absolute;
     height: 150px;
     width: 150px;
-    border: 3px dotted #06268b;
+    border: 3px dotted #082d50;
     border-radius: 50%;
     animation-name: contactFormImageCircle;
     animation-duration: 25s;
@@ -193,7 +193,7 @@ body {
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-image > .contact-form-image-circle > a {
     color: #f6f8ff;
-    background-color: #1b99fe;
+    background-color: #e80003;
     height: 130px;
     width: 130px;
     border-radius: 50%;
@@ -217,10 +217,10 @@ body {
     gap: 20px;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-title > h4 {
-    color: #1b99fe;
+    color: #e80003;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-title > h2 {
-    color: #06268b;
+    color: #0b416f;
     font-size: 3vw;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-title > p {
@@ -234,7 +234,7 @@ body {
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-icons > .form-icon > .icon {
     height: 70px;
     width: 70px;
-    background-color: #06268b;
+    background-color: #0b416f;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -253,13 +253,13 @@ body {
     transition: transform .5s ease-in-out;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-icons > .form-icon > .icon > h2 {
-    color: #1b99fe;
+    color: #e80003;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-icons > .form-icon > .icon-info > h4 {
-    color: #1b99fe;
+    color: #e80003;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-icons > .form-icon > .icon-info > p {
-    color: #06268b;
+    color: #0b416f;
     margin-top: 10px;
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-inputs {
@@ -320,7 +320,7 @@ body {
 }
 .page-contact-form-section > .contactImage-and-contactForm > .contact-form-form > .form > .form-inputs > .input-submit-button > a {
     color: white;
-    background-color: #1b99fe;
+    background-color: #e80003;
     padding: 12px 30px;
     border-radius: 5px;
     z-index: 1;
@@ -332,7 +332,7 @@ body {
     height: 0;
     width: 0;
     z-index: -1;
-    background-color: #06268b;
+    background-color: #082d50;
     position: absolute;
     transition: height .4s ease-in-out, width .4s ease-in-out;
     border-radius: 5px;

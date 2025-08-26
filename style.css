@@ -2148,7 +2148,7 @@ body {
 
 footer {
     padding: 50px 5vw;
-    background: linear-gradient(white 0% 12%, #f6f8ff 12% 100%);
+    background: linear-gradient(white 0% 12%, #e9f0f6 12% 100%);
 }
 
 footer > div {
@@ -2178,7 +2178,7 @@ footer > div > .footer-subscribe-input {
 }
 
 footer > div > .footer-subscribe-input > h2 {
-    color: #06268b;
+    color: #0b416f;
     font-size: 3vw;
 }
 footer > div > .footer-subscribe-input > .subscribe-input {
@@ -2202,12 +2202,12 @@ footer > div > .footer-subscribe-input > .subscribe-input > input::placeholder {
 
 footer > div > .footer-subscribe-input > .subscribe-input > span {
     color: white;
-    background-color: #1b99fe;
+    background-color: #e80003;
     padding: 16px 50px;
 }
 
 footer > div > .footer-subscribe-input > .subscribe-input > span:hover {
-    background-color: #06268b;
+    background-color: #082d50;
     transition: background-color .5s ease;
 }
 
@@ -2218,8 +2218,8 @@ footer > div > .footer-subscribe-input > .footer-social-media {
 }
 
 footer > div > .footer-subscribe-input > .footer-social-media > a {
-    background-color: #06268b;
-    color: #1b99fe;
+    background-color: #0b416f;
+    color: white;
     height: 40px;
     width: 40px;
     border-radius: 50%;
@@ -2229,8 +2229,8 @@ footer > div > .footer-subscribe-input > .footer-social-media > a {
 }
 
 footer > div > .footer-subscribe-input > .footer-social-media > a:hover {
-    color: white;
-    background-color: #1b99fe;
+    color: #e80003;
+    background-color: #0b416f;
     transition: background-color .5s ease, color .5s ease, transform .5s ease-in-out;
     transform: translateY(-5px);
 }
@@ -2254,7 +2254,7 @@ footer > div > .footer-content > .footer-content-contact {
 }
 
 footer > div > .footer-content > .footer-content-contact > h3 {
-    color: #06268b;
+    color: #0b416f;
 }
 
 footer > div > .footer-content > .footer-content-contact > p {
@@ -2263,7 +2263,7 @@ footer > div > .footer-content > .footer-content-contact > p {
 }
 
 footer > div > .footer-content > .footer-content-contact > p > i {
-    color: #1b99fe;
+    color: #e80003;
 }
 footer > div > .footer-content > .footer-content-contact > p > span {
     margin-left: 10px;
@@ -2283,7 +2283,7 @@ footer > div > .footer-content > .footer-content-page-links {
 }
 
 footer > div > .footer-content > .footer-content-page-links > h3 {
-    color: #06268b;
+    color: #0b416f;
 }
 
 footer > div > .footer-content > .footer-content-page-links > a {
@@ -2292,7 +2292,7 @@ footer > div > .footer-content > .footer-content-page-links > a {
 }
 
 footer > div > .footer-content > .footer-content-page-links > a:hover {
-    color: #1b99fe;
+    color: #e80003;
     transform: translateY(-5px);
     transition: color .3s ease-in-out, transform .3s ease-in-out;
 }
@@ -2304,14 +2304,14 @@ footer > div > .footer-content > .footer-content-useful-links {
     flex-shrink: 0;
 }
 footer > div > .footer-content > .footer-content-useful-links > h3 {
-    color: #06268b;
+    color: #0b416f;
 }
 footer > div > .footer-content > .footer-content-useful-links > a {
     color: gray;
     font-size: large;
 }
 footer > div > .footer-content > .footer-content-useful-links > a:hover {
-    color: #1b99fe;
+    color: #e80003;
     transform: translateY(-5px);
     transition: color .3s ease-in-out, transform .3s ease-in-out;
 }
@@ -2323,7 +2323,7 @@ footer > div > .footer-content > .footer-content-opening-hours {
     flex-shrink: 0;
 }
 footer > div > .footer-content > .footer-content-opening-hours > h3 {
-    color: #06268b;
+    color: #0b416f;
 }
 footer > div > .footer-content > .footer-content-opening-hours > div > .day-and-timings {
     display: flex;
@@ -2340,10 +2340,10 @@ footer > div > .footer-content > .footer-content-opening-hours > div > .day-and-
     pointer-events: none;
 }
 footer > div > .footer-content > .footer-content-opening-hours > div > .day-and-timings:hover .day > a {
-    color: #1b99fe;
+    color: #e80003;
 }
 footer > div > .footer-content > .footer-content-opening-hours > div > .day-and-timings:hover .timings > a {
-    color: #1b99fe;
+    color: #e80003;
 }
 footer > div > .footer-copyrights-and-privacy {
     display: flex;
@@ -2353,10 +2353,10 @@ footer > div > .footer-copyrights-and-privacy > .footer-copy-rights > p {
     color: gray;
 }
 footer > div > .footer-copyrights-and-privacy > .footer-copy-rights > p > a {
-    color: #06268b;
+    color: #0b416f;
 }
 footer > div > .footer-copyrights-and-privacy > .footer-copy-rights > p > a:hover {
-    color: #1b99fe;
+    color: #e80003;
 }
 footer > div > .footer-copyrights-and-privacy > .privacy-and-policy > a {
     color: gray;

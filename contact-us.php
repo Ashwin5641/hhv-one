@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us | Sri Sai Balaji Physiotherapy Clinic</title>
+    <title>Contact Us | HHV Thermal Technologies</title>
     <link rel="icon" href="./assets/images/favicon.png" type="x-image/icon">
 
     <!-- --------------link for the styling index page--------------- -->
@@ -52,20 +52,20 @@
                         </div>
                         <div class="open-timings-info">
                             <h3>Opening days:</h3>
-                            <p>Mon-Fri: 10:00am to 6:00pm</p>
+                            <p>Mon-Sat: 9:00am to 5:30pm</p>
                         </div>
                     </div>
                 </div>
                 <div class="contact-form-image-circle">
-                    <a href="#">Schedule an Appointment</a>
+                    <a href="#">Request a Consultation</a>
                 </div>
             </div>
             <div class="contact-form-form">
                 <div class="form">
                     <div class="form-title">
                         <h4>Get in touch </h4>
-                        <h2>Start Your Wellness Journey Today!</h2>
-                        <p>Use the latest research in physical therapy to work better, play better—and spend more time on what matters.</p>
+                        <h2>Start Your Industrial Solutions Journey Today!</h2>
+                        <p>Reach out to our experts for precision vacuum furnace solutions tailored to aerospace, defence, automotive, and metallurgical industries.</p>
                     </div>
                     <div class="form-icons">
                         <div class="form-icon">
@@ -74,7 +74,7 @@
                             </div>
                             <div class="icon-info">
                                 <h4>Call Now</h4>
-                                <p>+91 96633 14071</p>
+                                <p>+91-80-41931000</p>
                             </div>
                         </div>
                         <div class="form-icon">
@@ -83,7 +83,7 @@
                             </div>
                             <div class="icon-info">
                                 <h4>Send Your Message</h4>
-                                <p>srisaibalajiclinic@gmail.com</p>
+                                <p>info@hhvthermaltech</p>
                             </div>
                         </div>
                         <div class="form-icon">
@@ -92,7 +92,7 @@
                             </div>
                             <div class="icon-info">
                                 <h4>Visit The Clinic</h4>
-                                <p>Thindlu, Vidyaranyapura, Bengaluru 560097</p>
+                                <p>No. 17, Phase 1, Peenya, Bengaluru</p>
                             </div>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
     
     <div class="page-contactus-map-section">
         <div class="page-contactus-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4957978454386!2d77.56361027489685!3d13.06773381276367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae192620bac1f9%3A0x943d7105c31d87b!2sSri%20Sai%20Balaji%20Physiotherapy%20Clinic-%20Advanced%20Physiotherapy%20center!5e0!3m2!1sen!2sin!4v1753694330808!5m2!1sen!2sin" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d124381.42721754703!2d77.44612784480877!3d13.040789474356044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3d98b7863ab1%3A0xa489fdebc7d1e954!2sSite%20No.%2017%2C%20Phase%2C%201%2C%20Phase%20-1%2C%20Peenya%2C%20Bengaluru%2C%20Karnataka%20560022!3m2!1d13.0408215!2d77.5284956!5e0!3m2!1sen!2sin!4v1756169071393!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 

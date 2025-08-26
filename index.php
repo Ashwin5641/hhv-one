@@ -849,11 +849,11 @@
 
             if (container) {
                 new juxtapose.JXSlider("#whyChooseUs-comparison", [{
-                        src: "./assets/images/index-why-choose-us/before.webp",
+                        src: "./assets/images/index-why-choose-us/before.png",
                         label: ""
                     },
                     {
-                        src: "./assets/images/index-why-choose-us/after.webp",
+                        src: "./assets/images/index-why-choose-us/after.png",
                         label: ""
                     }
                 ], {

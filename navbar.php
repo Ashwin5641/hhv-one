@@ -10,8 +10,8 @@
             <li><a href="#">Products&nbsp;&nbsp;<i class="fa-solid fa-angle-down"></i></a>
                 <ul>
                     <li><a href="./heat-treatment-furnaces.php"><span></span>Heat Treatment Furnaces</a></li>
-                    <li><a href="./exercise.php"><span></span>Vacuum Brazing Furnaces</a></li>
-                    <li><a href="./strains-and-sprains.php"><span></span>Vacuum Aluminium Brazing Furnaces</a></li>
+                    <li><a href="./vacuum-brazing-furnaces.php"><span></span>Vacuum Brazing Furnaces</a></li>
+                    <li><a href="./vacuum-aluminium-brazing-furnaces.php"><span></span>Vacuum Aluminium Brazing Furnaces</a></li>
                     <li><a href="./paralysis.php"><span></span>Vacuum Hot Presses</a></li>
                     <li><a href="./amputations.php"><span></span>Vacuum Ovens</a></li>
                     <li><a href="./neurological.php"><span></span>Thermo Vacuum Furnaces</a></li>
@@ -27,7 +27,7 @@
         </ul>
     </div>
     <div class="navbar-button">
-        <a href="./contact-us.php">Contact&nbsp;&nbsp;></a>
+        <a href="./contact-us.php">Contact Us&nbsp;&nbsp;></a>
     </div>
 </div>
 
@@ -50,7 +50,7 @@
             <li class="services-submenu">Products<span><i class="fa-solid fa-plus"></i></span>
                 <ul class="services-submenu-items">
                     <li><a href="./heat-treatment-furnaces.css">Heat Treatment Furnaces</a></li>
-                    <li><a href="./exercise.php">Exercise</a></li>
+                    <li><a href="./vacuum-brazing-furnaces.php">Vacuum Brazing Furnaces</a></li>
                     <li><a href="./strains-and-sprains.php">Strains and sprains</a></li>
                     <li><a href="./paralysis.php">Paralysis</a></li>
                     <li><a href="./amputations.php">Amputations</a></li>

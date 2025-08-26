@@ -63,7 +63,7 @@ body {
     position: absolute;
     inset: 0;
     z-index: 0;
-    background-image: url(./assets/images/contact-us/title-image.jpg);
+    background-image: url(./assets/images/contact-us/title-image.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -136,11 +136,11 @@ body {
     gap: 20px;
 }
 .page-blog-section > .page-blog-cards-section > .page-blog-cards > .page-blog-card > .page-blog-card-info > h2 {
-    color: #06268b;
+    color: #0b416f;
     font-weight: normal;
 }
 .page-blog-section > .page-blog-cards-section > .page-blog-cards > .page-blog-card > .page-blog-card-info > a {
-    color: #1b99fe;
+    color: #e80003;
     display: flex;
     align-items: center;
     gap: 10px;

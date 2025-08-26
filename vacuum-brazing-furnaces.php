@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Strains and sprains | Sri Sai Balaji Physiotherapy Clinic</title>
+    <title> Vacuum Brazing Furnaces | HHV Thermal Technologies</title>
     <link rel="icon" href="./assets/images/favicon.png" type="x-image/icon">
 
     <!-- --------------link for the styling service page--------------- -->
     <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="./strains-and-sprains.css">
+    <link rel="stylesheet" href="./vacuum-brazing-furnaces.css">
     <link rel="stylesheet" href="./services-sidebar.css">
 
 
@@ -36,14 +36,14 @@
 
     <div class="page-title-section">
         <div class="page-title">
-            <h4>SERVICE</h4>
-            <h2>Strains and sprains</h2>
+            <h4>PRODUCTS</h4>
+            <h2>Vacuum Brazing Furnaces</h2>
             <div class="page-title-nav">
                 <a href="./index.php">Home</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
-                <a href="#">Services</a>
+                <a href="#">Products</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
-                <a href="#">Strains and sprains</a>
+                <a href="#">Vacuum Brazing Furnaces</a>
             </div>
         </div>
     </div>
@@ -63,10 +63,9 @@
 
             </div>
             <div class="page-content-info-title">
-                <h1>Emcompasses various treatment</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum nobis repellendus numquam. Ad sed amet aspernatur earum sequi qui mollitia. Suscipit quo mollitia ipsa sapiente numquam quaerat neque vel harum?
-                    Voluptatem, facilis reiciendis tenetur velit nemo obcaecati id amet molestiae et, cupiditate quasi ad? Saepe nostrum alias iste doloribus harum voluptas unde necessitatibus quasi tenetur neque perferendis, aperiam quod ex!</p>
-                <p>A physiotherapist will ask you about your current level of activity and any particular problems you’re having. They will also examine your joints to assess your muscle strength and the range of movement in your joints. Exercises and activities to meet your individual needs. </p>
+                <h1>Vacuum Brazing Furnaces</h1>
+                <p>Our advanced vacuum brazing furnaces are engineered for precision, reliability, and high repeatability. They are ideal for joining complex and critical components where cleanliness and metallurgical integrity are essential.</p>
+                <p>HHVTT furnaces are widely used in aerospace, defense, energy, automotive, and electronic industries. With uniform heating, leak-tight assemblies, and superior strength joints, our systems deliver unmatched performance for your brazing needs. </p>
             </div>
             <div class="page-content-info-images">
                 <div class="page-content-info-image page-content-info-image1">
@@ -79,48 +78,48 @@
             <div class="page-content-info-points">
                 <ul>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Neck and back pain caused by problems in the muscles and skeleton</p>
+                        <p>High-strength, leak-proof joints for critical components</p>
                     </li>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Pelvic issues, such as bladder and bowel problems related to childbirth</p>
+                        <p>Oxide-free, clean brazing environment ensuring superior metallurgical quality</p>
                     </li>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Loss of mobility because of trauma to the brain or spine, or due to diseases such as</p>
+                        <p>Uniform temperature control for consistent results</p>
                     </li>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Fatigue, pain, swelling, stiffness and loss of muscle strength, for example during cancer</p>
+                        <p>Applicable across aerospace, defense, energy, automotive, and electronics</p>
                     </li>
                 </ul>
             </div>
             <div class="page-content-info-faq">
                 <h1>Frequently Asked Questions</h1>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                <p>Learn more about how vacuum brazing furnaces ensure reliability, strength, and repeatability in critical manufacturing processes.</p>
                 <div class="faq-section">
                     <div class="faq-item">
-                        <button class="faq-question">What should I expect during my first physiotherapy session?</button>
+                        <button class="faq-question">What is the advantage of vacuum brazing over conventional brazing?</button>
                         <div class="faq-answer">
-                            <p>You’ll discuss your symptoms, physical activity, and undergo an assessment of movement and strength. A personalized treatment plan will follow.</p>
+                            <p>Vacuum brazing provides clean, strong, and oxide-free joints without the need for flux, ensuring superior metallurgical quality.</p>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question">Do I need a referral to see a physiotherapist?</button>
+                        <button class="faq-question">Which industries benefit most from vacuum brazing furnaces?</button>
                         <div class="faq-answer">
-                            <p>No, most physiotherapists accept direct bookings without a doctor’s referral. Check with your insurance if needed.</p>
+                            <p>They are widely used in aerospace, defense, energy, automotive, and electronics for producing high-performance components.</p>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question">How long does a session last?</button>
+                        <button class="faq-question">What materials can be brazed in these furnaces?</button>
                         <div class="faq-answer">
-                            <p>Sessions typically last 30 to 60 minutes, depending on your treatment plan and needs.</p>
+                            <p>Materials such as stainless steel, superalloys, titanium, and copper can be brazed with high precision in vacuum furnaces.</p>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question">Cost of sat before and wow so that including due?</button>
+                        <button class="faq-question">Do you provide customization for specific applications?</button>
                         <div class="faq-answer">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque repellendus natus perspiciatis.</p>
+                            <p>Yes, HHVTT offers customized vacuum brazing furnaces tailored to client-specific requirements and applications.</p>
                         </div>
                     </div>
                 </div>
