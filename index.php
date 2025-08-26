@@ -386,7 +386,7 @@
                 <div class="our-products-cards swiper-wrapper">
                     <div class="our-products-card our-products-card1 swiper-slide">
                         <div class="our-products-card-img">
-                            
+
                         </div>
                     </div>
                     <div class="our-products-card our-products-card2 swiper-slide">
@@ -909,7 +909,7 @@
                         label: ""
                     },
                     {
-                        src: "./assets/images/index-why-choose-us/after.png",
+                        src: "./assets/images/index-why-choose-us/after.jpg",
                         label: ""
                     }
                 ], {
