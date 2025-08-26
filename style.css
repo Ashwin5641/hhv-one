@@ -21,14 +21,29 @@ body {
     font-style: normal;
 }
 
-@media (min-width: 1601px) {
+@media (min-width: 1601px) and (max-width: 2108px) {
     body {
         padding: 0 8vw;
     }
 }
-@media (min-width: 2108) and (max-width: 2590) {
+@media (min-width: 2109px) and (max-width: 2228px) {
     body {
         padding: 0 10vw;
+    }
+}
+@media (min-width: 2229px) and (max-width: 2363px) {
+    body {
+        padding: 0 12vw;
+    }
+}
+@media (min-width: 2364px) and (max-width: 2599px) {
+    body {
+        padding: 0 14vw;
+    }
+}
+@media (min-width: 2600px) and (max-width: 3200px) {
+    body {
+        padding: 0 16vw;
     }
 }
 
