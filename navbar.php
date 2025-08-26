@@ -12,13 +12,13 @@
                     <li><a href="./heat-treatment-furnaces.php"><span></span>Heat Treatment Furnaces</a></li>
                     <li><a href="./vacuum-brazing-furnaces.php"><span></span>Vacuum Brazing Furnaces</a></li>
                     <li><a href="./vacuum-aluminium-brazing-furnaces.php"><span></span>Vacuum Aluminium Brazing Furnaces</a></li>
-                    <li><a href="./paralysis.php"><span></span>Vacuum Hot Presses</a></li>
-                    <li><a href="./amputations.php"><span></span>Vacuum Ovens</a></li>
-                    <li><a href="./neurological.php"><span></span>Thermo Vacuum Furnaces</a></li>
-                    <li><a href="./brain-injury.php"><span></span>Induction Melting and Casting Furnaces</a></li>
-                    <li><a href="./arthritis.php"><span></span>Arc Re-melting Furnaces</a></li>
-                    <li><a href="./joint-mobilization.php"><span></span>CVD, CVI and Graphitization Furnaces</a></li>
-                    <li><a href="./joint-mobilization.php"><span></span>Spares and Service</a></li>
+                    <li><a href="./vacuum-hot-presses.php"><span></span>Vacuum Hot Presses</a></li>
+                    <li><a href="./vacuum-ovens.php"><span></span>Vacuum Ovens</a></li>
+                    <li><a href="./thermo-vacuum-furnaces.php"><span></span>Thermo Vacuum Furnaces</a></li>
+                    <li><a href="./induction-melting-and-casting-furnaces.php"><span></span>Induction Melting and Casting Furnaces</a></li>
+                    <li><a href="./arc-re-melting-furnaces.php"><span></span>Arc Re-melting Furnaces</a></li>
+                    <li><a href="./cvd-cvi-and-graphitization-furnaces.php"><span></span>CVD, CVI and Graphitization Furnaces</a></li>
+                    <li><a href="./spares-and-service.php"><span></span>Spares and Service</a></li>
                 </ul>
             </li>
             <li><a href="./about-us.php">About Us</a></li>

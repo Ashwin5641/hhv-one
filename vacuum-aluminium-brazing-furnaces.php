@@ -63,10 +63,9 @@
 
             </div>
             <div class="page-content-info-title">
-                <h1>Emcompasses various treatment</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum nobis repellendus numquam. Ad sed amet aspernatur earum sequi qui mollitia. Suscipit quo mollitia ipsa sapiente numquam quaerat neque vel harum?
-                    Voluptatem, facilis reiciendis tenetur velit nemo obcaecati id amet molestiae et, cupiditate quasi ad? Saepe nostrum alias iste doloribus harum voluptas unde necessitatibus quasi tenetur neque perferendis, aperiam quod ex!</p>
-                <p>A physiotherapist will ask you about your current level of activity and any particular problems you’re having. They will also examine your joints to assess your muscle strength and the range of movement in your joints. Exercises and activities to meet your individual needs. </p>
+                <h1>Vacuum Heat Furnaces</h1>
+                <p>HHVTT specializes in premium, fully automatic vacuum heat treatment furnaces featuring multi-point soaking and gas quenching cycles. Designed for high consistency and low contamination, they’re ideal for annealing, hardening, tempering, ageing, and carburizing processes.</p>
+                <p>Our systems are engineered for demanding industrial applications—ensuring clean, precise, and repeatable heat treatment outcomes. </p>
             </div>
             <div class="page-content-info-images">
                 <div class="page-content-info-image page-content-info-image1">
@@ -79,48 +78,48 @@
             <div class="page-content-info-points">
                 <ul>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Neck and back pain caused by problems in the muscles and skeleton</p>
+                        <p>Multi-point soaking ensures uniform temperature distribution.</p>
                     </li>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Pelvic issues, such as bladder and bowel problems related to childbirth</p>
+                        <p>Gas quenching reduces oxidation and surface contamination.</p>
                     </li>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Loss of mobility because of trauma to the brain or spine, or due to diseases such as</p>
+                        <p>High repeatability with automated thermal profiling.</p>
                     </li>
                     <li><span><i class="fa-solid fa-circle-check"></i></span>
-                        <p>Fatigue, pain, swelling, stiffness and loss of muscle strength, for example during cancer</p>
+                        <p>Customizable cycles supporting annealing, ageing & carburizing.</p>
                     </li>
                 </ul>
             </div>
             <div class="page-content-info-faq">
                 <h1>Frequently Asked Questions</h1>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                <p>Explore answers to common technical inquiries about our furnaces and their industrial applications.</p>
                 <div class="faq-section">
                     <div class="faq-item">
-                        <button class="faq-question">What should I expect during my first physiotherapy session?</button>
+                        <button class="faq-question">What vacuum levels do the furnaces achieve?</button>
                         <div class="faq-answer">
-                            <p>You’ll discuss your symptoms, physical activity, and undergo an assessment of movement and strength. A personalized treatment plan will follow.</p>
+                            <p>Our systems typically operate at **10⁻² to 10⁻³ mbar**, with optional upgrades available to reach **10⁻⁴ to 10⁻⁵ mbar**. :contentReference[oaicite:0]{index=0}</p>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question">Do I need a referral to see a physiotherapist?</button>
+                        <button class="faq-question">What heat treatment processes are supported?</button>
                         <div class="faq-answer">
-                            <p>No, most physiotherapists accept direct bookings without a doctor’s referral. Check with your insurance if needed.</p>
+                            <p>These furnaces support a variety of applications including annealing, hardening, ageing, tempering, and carburizing—providing a versatile solution for diverse industrial needs. :contentReference[oaicite:1]{index=1}</p>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question">How long does a session last?</button>
+                        <button class="faq-question">Can workflows be automated?</button>
                         <div class="faq-answer">
-                            <p>Sessions typically last 30 to 60 minutes, depending on your treatment plan and needs.</p>
+                            <p>Yes—our systems are fully automated and support user-programmed heating cycles, multi-point soaking, and gas quenching for reliable, repeatable operation.</p>
                         </div>
                     </div>
 
                     <div class="faq-item">
-                        <button class="faq-question">Cost of sat before and wow so that including due?</button>
+                        <button class="faq-question">Are custom configurations available?</button>
                         <div class="faq-answer">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque repellendus natus perspiciatis.</p>
+                            <p>Absolutely. HHVTT offers custom furnace designs tailored to specific industrial applications such as space, aerospace, defence, automotive, and metallurgy. :contentReference[oaicite:2]{index=2}</p>
                         </div>
                     </div>
                 </div>

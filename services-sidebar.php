@@ -21,7 +21,7 @@
 
 <div class="sidebar-banner-image">
     <div class="sidebar-banner-img">
-        <img src="./assets/images/logo.png" alt="">
-        <h2>Start Your Wellness Journey Today!</h2>
+        <!-- <img src="./assets/images/logo.png" alt=""> -->
+        <h2>Take your business to the next level</h2>
     </div>
 </div>

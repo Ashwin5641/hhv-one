@@ -129,7 +129,7 @@
                 </div>
             </div>
             <div class="swiper-slide hero-carousel-slide">
-                <img src="./assets/images/index-hero-carousel/hero-3.png" alt="Best physiotherapy health clinic" loading="lazy"/>
+                <img src="./assets/images/index-hero-carousel/hero-3.png" alt="Best physiotherapy health clinic" loading="lazy" />
                 <div class="hero-carousel-slide-info">
                     <div class="hero-carousel-text-onebyone">
                         <small>Aerospace · Defence · Metallurgy</small>
@@ -140,7 +140,7 @@
                 </div>
             </div>
             <div class="swiper-slide hero-carousel-slide">
-                <img src="./assets/images/index-hero-carousel/hero-4.png" alt="Best wellness and support in bangalore" loading="lazy"/>
+                <img src="./assets/images/index-hero-carousel/hero-4.png" alt="Best wellness and support in bangalore" loading="lazy" />
                 <div class="hero-carousel-slide-info">
                     <div class="hero-carousel-text-onebyone">
                         <small>Service & Support</small>
@@ -374,6 +374,59 @@
     </div>
 
 
+    <!-- -----------------start of the our products section------------------- -->
+
+    <div class="our-products-section">
+        <div class="our-products-info">
+            <div class="our-products-title">
+                <h4>Our Products</h4>
+                <h2>Advanced Thermal & Vacuum Systems</h2>
+            </div>
+            <div class="our-products-carousel swiper">
+                <div class="our-products-cards swiper-wrapper">
+                    <div class="our-products-card our-products-card1 swiper-slide">
+                        <div class="our-products-card-img">
+                            
+                        </div>
+                    </div>
+                    <div class="our-products-card our-products-card2 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card3 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card4 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card5 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card6 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card7 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card8 swiper-slide">
+
+                    </div>
+                    <div class="our-products-card our-products-card9 swiper-slide">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
     <!-- ---------------start of the services we think differently----------------- -->
     <div class="services-we-think-difrnt">
         <div class="services-we-think-difrnt-info">
@@ -487,7 +540,7 @@
                     </div>
                     <div class="whyChooseUs-info-icon">
                         <div class="whyChooseUs-info-icon-circle">
-                            <h2><i class="fa-solid fa-earth-asia"></i></h2> 
+                            <h2><i class="fa-solid fa-earth-asia"></i></h2>
                         </div>
                         <div class="whyChooseUs-info-icon-title">
                             <h3>We will definitely be back!</h3>
@@ -632,7 +685,7 @@
         </div>
     </div>
 
-    
+
 
     <!-- -------------start of the awards and testimonials section--------------- -->
     <div class="awards-and-testimonils-section">
@@ -818,7 +871,7 @@
     <?php include './footer.php' ?>
 
 
-    
+
     <!-- -----------script link for the navbar and sidebar-------------- -->
     <script src="./navbar-sidebar.js"></script>
 
@@ -827,9 +880,12 @@
 
     <!-- -----------script link for the hero carousel--------------- -->
     <script src="./index-hero-carousel.js"></script>
+    
+    <!-- -----------script link for the our products swiper js-------------- -->
+    <script src="./index-our-products-swiper.js"></script>
 
     <!-- -----------script link for the testimonials---------------- -->
-     <script src="./index-testimonials.js"></script>
+    <script src="./index-testimonials.js"></script>
 
     <!-- -----------script link for the services we think differently------------- -->
     <script src="./index-services-we-think.js"></script>
@@ -870,6 +926,22 @@
     </script>
 
 
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/68ad42f0b132da1924ae1f3f/1j3icqvb2';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
 </body>
 
 </html>

@@ -91,7 +91,15 @@
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url(./assets/images/services/sidebar/banner-3.png);
+    background-image: url(assets/images/products/sidebar/banner.jpg);
     background-size: 100% 100%;
+    opacity: .5;
     z-index: 0;
+}
+.sidebar-banner-image::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-color: #082d50;
+    opacity: .5;
 }

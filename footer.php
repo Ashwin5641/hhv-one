@@ -26,7 +26,7 @@
                 <p><i class="fa-solid fa-phone-flip"></i><span> +91-80-41931000</span></p>
             </div>
             <div class="footer-content-page-links footer-card">
-                <h3>Page Llinks</h3>
+                <h3>Page Links</h3>
                 <a href="./index.php">Home</a>
                 <a href="./orthopedic.php">Products</a>
                 <a href="./orthopedic.php">Custom Systems</a>
