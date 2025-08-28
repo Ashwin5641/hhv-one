@@ -384,43 +384,85 @@
             </div>
             <div class="our-products-carousel swiper">
                 <div class="our-products-cards swiper-wrapper">
-                    <div class="our-products-card our-products-card1 swiper-slide">
-                        <div class="our-products-card-img">
+                    <a href="./heat-treatment-furnaces.php" class="our-products-card our-products-card1 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img1">
 
                         </div>
-                    </div>
-                    <div class="our-products-card our-products-card2 swiper-slide">
+                        <div class="our-products-card-title">
+                            <p>Vacuum Heat Treatment Furnaces</p>
+                        </div>
+                    </a>
+                    <a href="./vacuum-brazing-furnaces.php" class="our-products-card our-products-card2 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img2">
 
-                    </div>
-                    <div class="our-products-card our-products-card3 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Vacuum Brazing Furnaces</p>
+                        </div>
+                    </a>
+                    <a href="./vacuum-hot-presses.php" class="our-products-card our-products-card3 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img3">
 
-                    </div>
-                    <div class="our-products-card our-products-card4 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Vacuum Hot Presses</p>
+                        </div>
+                    </a>
+                    <a href="./vacuum-aluminium-brazing-furnaces.php" class="our-products-card our-products-card4 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img4">
 
-                    </div>
-                    <div class="our-products-card our-products-card5 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Vacuum Aluminium Brazing Furnaces</p>
+                        </div>
+                    </a>
+                    <a href="./induction-melting-and-casting-furnaces.php" class="our-products-card our-products-card5 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img5">
 
-                    </div>
-                    <div class="our-products-card our-products-card6 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Vacuum Induction Melting and Casting Furnaces</p>
+                        </div>
+                    </a>
+                    <a href="./cvd-cvi-and-graphitization-furnaces.php" class="our-products-card our-products-card6 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img6">
 
-                    </div>
-                    <div class="our-products-card our-products-card7 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>CVD,CVI and Graphitization Furnaces</p>
+                        </div>
+                    </a>
+                    <a href="./arc-re-melting-furnaces.php" class="our-products-card our-products-card7 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img7">
 
-                    </div>
-                    <div class="our-products-card our-products-card8 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Vacuum Arc Re-melting Furnaces</p>
+                        </div>
+                    </a>
+                    <a href="./thermo-vacuum-furnaces.php" class="our-products-card our-products-card8 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img8">
 
-                    </div>
-                    <div class="our-products-card our-products-card9 swiper-slide">
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Thermo Vacuum Systems</p>
+                        </div>
+                    </a>
+                    <a href="./vacuum-ovens.php" class="our-products-card our-products-card9 swiper-slide">
+                        <div class="our-products-card-img our-products-card-img9">
 
-                    </div>
+                        </div>
+                        <div class="our-products-card-title">
+                            <p>Vacuum Ovens</p>
+                        </div>
+                    </a>
                 </div>
+            </div>
+            <div class="our-products-button">
+                <a href="#">View All Products</a>
             </div>
         </div>
     </div>
-
-
-
-
 
 
 

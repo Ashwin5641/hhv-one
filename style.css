@@ -1043,7 +1043,7 @@ body {
     animation: marqueeLoop 30s linear infinite;
 }
 
-.marquee-content h2 {
+.marquee-content  h2 {
     white-space: nowrap;
     font-size: 48px;
     color: #0b416f;
@@ -1087,41 +1087,42 @@ body {
 .our-products-section > .our-products-info > .our-products-carousel > .our-products-cards {
     display: flex;
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card {
-    height: 300px;
-}
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card::before {
-    content: '';
-    inset: 0;
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img {
+    height: 280px;
+    width: 100%;
     background-size: 100% 100%;
-    position: absolute;
-    z-index: 0;
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card1::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-title {
+    text-align: center;
+    padding: 10px 20px 0 20px;
+    color: #0b416f;
+    font-size: 18px;
+}
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img1 {
     background-image: url(./assets/images/index-our-products-section/image1.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card2::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img2 {
     background-image: url(./assets/images/index-our-products-section/image2.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card3::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img3 {
     background-image: url(./assets/images/index-our-products-section/image3.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card4::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img4 {
     background-image: url(./assets/images/index-our-products-section/image4.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card5::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img5 {
     background-image: url(./assets/images/index-our-products-section/image5.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card6::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img6 {
     background-image: url(./assets/images/index-our-products-section/image6.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card7::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img7 {
     background-image: url(./assets/images/index-our-products-section/image7.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card8::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img8 {
     background-image: url(./assets/images/index-our-products-section/image8.png);
 }
-.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card9::before {
+.our-products-section > .our-products-info > .our-products-carousel > .our-products-cards > .our-products-card > .our-products-card-img9 {
     background-image: url(./assets/images/index-our-products-section/image9.png);
 }
 
