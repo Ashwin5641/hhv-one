@@ -40,7 +40,7 @@
             <a href="./index.php"><img src="./assets/images/logo.png" alt="Sri Sai Balaji Physiotherapy Clinic"></a>
         </div>
         <div class="sidebar-button-hamburger">
-            <li><a href="./contact-us.php">Contact&nbsp;&nbsp;></a></li>
+            <li><a href="./contact-us.php">Contact Us&nbsp;&nbsp;></a></li>
             <li class="hamburger"><span><i class="fa-solid fa-bars"></i></span></li>
         </div>
     </div>
