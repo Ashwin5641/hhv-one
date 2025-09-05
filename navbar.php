@@ -51,13 +51,13 @@
                 <ul class="services-submenu-items">
                     <li><a href="./heat-treatment-furnaces.css">Heat Treatment Furnaces</a></li>
                     <li><a href="./vacuum-brazing-furnaces.php">Vacuum Brazing Furnaces</a></li>
-                    <li><a href="./strains-and-sprains.php">Strains and sprains</a></li>
-                    <li><a href="./paralysis.php">Paralysis</a></li>
-                    <li><a href="./amputations.php">Amputations</a></li>
-                    <li><a href="./neurological.php">Neurological</a></li>
-                    <li><a href="./brain-injury.php">Brain injury</a></li>
-                    <li><a href="./arthritis.php">Arthritis</a></li>
-                    <li><a href="./joint-mobilization.php">Joint Mobilization</a></li>
+                    <li><a href="./vacuum-aluminium-brazing-furnaces.php">Vacuum Aluminium Brazing Furnaces</a></li>
+                    <li><a href="./vacuum-hot-presses.php">Vacuum Hot Presses</a></li>
+                    <li><a href="./thermo-vacuum-furnaces.php">Thermo Vacuum Furnaces</a></li>
+                    <li><a href="./induction-melting-and-casting-furnaces.php">Induction Melting and Casting Furnaces</a></li>
+                    <li><a href="./arc-re-melting-furnaces.php">Arc Re-melting Furnaces</a></li>
+                    <li><a href="./cvd-cvi-and-graphitization-furnaces.php">CVD, CVI and Graphitization Furnaces</a></li>
+                    <li><a href="./spares-and-service.php">Spares and Service</a></li>
                 </ul>
             </li>
             <li><a href="./about-us.php">About Us</a></li>
