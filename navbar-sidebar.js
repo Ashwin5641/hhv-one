@@ -11,4 +11,4 @@ let servicesSubmenu = document.querySelector('.services-submenu');
 servicesSubmenu.addEventListener('click', function () {
     let submenuItems = document.querySelector('.services-submenu-items')
     submenuItems.classList.toggle("open");
-})
+})  
