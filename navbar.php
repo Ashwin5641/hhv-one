@@ -49,7 +49,7 @@
             <li><a href="./index.php">Home</a></li>
             <li class="services-submenu">Products<span><i class="fa-solid fa-plus"></i></span>
                 <ul class="services-submenu-items">
-                    <li><a href="./heat-treatment-furnaces.css">Heat Treatment Furnaces</a></li>
+                    <li><a href="./heat-treatment-furnaces.php">Heat Treatment Furnaces</a></li>
                     <li><a href="./vacuum-brazing-furnaces.php">Vacuum Brazing Furnaces</a></li>
                     <li><a href="./vacuum-aluminium-brazing-furnaces.php">Vacuum Aluminium Brazing Furnaces</a></li>
                     <li><a href="./vacuum-hot-presses.php">Vacuum Hot Presses</a></li>
