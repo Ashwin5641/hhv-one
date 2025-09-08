@@ -459,7 +459,7 @@
                 </div>
             </div>
             <div class="our-products-button">
-                <a href="#">View All Products</a>
+                <a href="./products.php">View All Products</a>
             </div>
         </div>
     </div>
