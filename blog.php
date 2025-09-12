@@ -59,9 +59,9 @@
             <div class="page-title-nav">
                 <a href="./index.php">Home</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
-                <a href="#">Products</a>
+                <a href="./products.php">Products</a>
                 <span><i class="fa-solid fa-angle-right"></i></span>
-                <a href="#">Blog</a>
+                <a href="./blog.php">Blog</a>
             </div>
         </div>
     </div>
@@ -71,87 +71,87 @@
     <div class="page-blog-section">
         <div class="page-blog-cards-section">
             <div class="page-blog-cards">
-                <div class="page-blog-card">
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img1">
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img2">
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img3">
 
                     </div>
                     <div class="page-blog-card-info">
                         <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card page-blog-card4">
+                </a>
+                <a href="./blog1.php" class="page-blog-card page-blog-card4">
                     <div class="page-blog-card-img page-blog-card-img4">
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <h2>Lorem ipsum, dolor sit amet consectetur adipisicing.</h2>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img5">
 
                     </div>
                     <div class="page-blog-card-info">
                         <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img6">
 
                     </div>
                     <div class="page-blog-card-info">
                         <h2>Lorem ipsum, dolor sit amet consectetur adipisicing.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img7">
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <h2>Lorem ipsum dolor sit, amet consectetur adipisicing.</h2>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img8">
 
                     </div>
                     <div class="page-blog-card-info">
-                        <h2>Lorem ipsum dolor sit amet consectetur.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
-                <div class="page-blog-card">
+                </a>
+                <a href="./blog1.php" class="page-blog-card">
                     <div class="page-blog-card-img page-blog-card-img9">
 
                     </div>
                     <div class="page-blog-card-info">
                         <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2>
-                        <a href="#">Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></a>
+                        <p>Read More <span><i class="fa-solid fa-circle-chevron-right"></i></span></p>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>

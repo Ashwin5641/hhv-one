@@ -107,7 +107,7 @@
     <div class="swiper hero-carousel">
         <div class="swiper-wrapper hero-carousel-wrapper">
             <div class="swiper-slide hero-carousel-slide">
-                <img src="./assets/images/index-hero-carousel/hero-1.png" alt="Personalized therapy session in bangalore" loading="lazy" />
+                <img src="./assets/images/index-hero-carousel/hero-5.png" alt="Personalized therapy session in bangalore" loading="lazy" />
                 <div class="hero-carousel-slide-info">
                     <div class="hero-carousel-text-onebyone">
                         <small>Thermal Vacuum Furnaces</small>
@@ -118,7 +118,7 @@
                 </div>
             </div>
             <div class="swiper-slide hero-carousel-slide">
-                <img src="./assets/images/index-hero-carousel/hero-2.png" alt="Get personal therapist for you in bangalore" loading="lazy" />
+                <img src="./assets/images/index-hero-carousel/hero-6.png" alt="Get personal therapist for you in bangalore" loading="lazy" />
                 <div class="hero-carousel-slide-info">
                     <div class="hero-carousel-text-onebyone">
                         <small>Customized Solutions</small>
@@ -129,7 +129,7 @@
                 </div>
             </div>
             <div class="swiper-slide hero-carousel-slide">
-                <img src="./assets/images/index-hero-carousel/hero-3.png" alt="Best physiotherapy health clinic" loading="lazy" />
+                <img src="./assets/images/index-hero-carousel/hero-2.png" alt="Best physiotherapy health clinic" loading="lazy" />
                 <div class="hero-carousel-slide-info">
                     <div class="hero-carousel-text-onebyone">
                         <small>Aerospace · Defence · Metallurgy</small>
@@ -140,7 +140,7 @@
                 </div>
             </div>
             <div class="swiper-slide hero-carousel-slide">
-                <img src="./assets/images/index-hero-carousel/hero-4.png" alt="Best wellness and support in bangalore" loading="lazy" />
+                <img src="./assets/images/index-hero-carousel/hero-3.png" alt="Best wellness and support in bangalore" loading="lazy" />
                 <div class="hero-carousel-slide-info">
                     <div class="hero-carousel-text-onebyone">
                         <small>Service & Support</small>
@@ -157,16 +157,16 @@
     <div thumbsSlider="" class="swiper hero-carousel-thumbnail">
         <div class="swiper-wrapper hero-carousel-thumbnail-wrapper">
             <div class="swiper-slide hero-thumbnail-slide">
-                <img src="./assets/images/index-hero-carousel/hero-1.png" loading="lazy" alt="Personalized therapy session in bangalore" />
+                <img src="./assets/images/index-hero-carousel/hero-5.png" loading="lazy" alt="Personalized therapy session in bangalore" />
             </div>
             <div class="swiper-slide hero-thumbnail-slide">
-                <img src="./assets/images/index-hero-carousel/hero-2.png" loading="lazy" alt="Get personal therapist for you in bangalore" />
+                <img src="./assets/images/index-hero-carousel/hero-6.png" loading="lazy" alt="Get personal therapist for you in bangalore" />
             </div>
             <div class="swiper-slide hero-thumbnail-slide">
-                <img src="./assets/images/index-hero-carousel/hero-3.png" loading="lazy" alt="Best physiotherapy health clinic" />
+                <img src="./assets/images/index-hero-carousel/hero-2.png" loading="lazy" alt="Best physiotherapy health clinic" />
             </div>
             <div class="swiper-slide hero-thumbnail-slide">
-                <img src="./assets/images/index-hero-carousel/hero-4.png" loading="lazy" alt="Best wellness and support in bangalore" />
+                <img src="./assets/images/index-hero-carousel/hero-3.png" loading="lazy" alt="Best wellness and support in bangalore" />
             </div>
         </div>
     </div>

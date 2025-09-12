@@ -21,7 +21,7 @@
 
 <div class="sidebar-banner-image">
     <div class="sidebar-banner-img">
-        <!-- <img src="./assets/images/logo.png" alt=""> -->
+        <img src="./assets/images/favicon.png" alt="#">
         <h2>Take your business to the next level</h2>
     </div>
 </div>
