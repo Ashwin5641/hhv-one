@@ -43,7 +43,7 @@ body {
 }
 @media (min-width: 2600px) and (max-width: 3200px) {
     body {
-        padding: 0 16vw;
+        padding: 0 20vw;
     }
 }
 
@@ -403,7 +403,6 @@ body {
     color: white;
     display: flex;
     justify-content: center;
-    text-align: center;
 }
 
 .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide>.hero-carousel-slide-info>div {
@@ -413,7 +412,7 @@ body {
     flex-direction: column;
     gap: 20px;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide>.hero-carousel-slide-info>div>small {
@@ -434,7 +433,7 @@ body {
 .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide>.hero-carousel-slide-info>div>a {
     color: white;
     background-color: #e80003;
-    padding: 12px 30px;
+    padding: 12px 20px;
     margin-top: 10px;
     transition: color .5s ease;
     transition: background-color .5s linear, color .5s linear;
@@ -504,7 +503,7 @@ body {
     }
 
     .hero-carousel>.hero-carousel-wrapper>.hero-carousel-slide>.hero-carousel-slide-info>div>a {
-        padding: 6px 20px;
+        padding: 6px 15px;
     }
     .hero-carousel>.swiper-button-next,
     .hero-carousel>.swiper-button-prev {
@@ -543,11 +542,12 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
     gap: 20px;
     justify-content: center;
+    margin-top: 30px;
 }
 
 .where-do-we-need-ation>div>.where-do-we-need-ation-cards>.where-do-we-need-ation-card {
     height: 120px;
-    background-color: #e9f0f6;
+    background-color: #f9fbfc;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -666,7 +666,7 @@ body {
 .about-section {
     padding: 50px 5vw;
     overflow: hidden;
-    background: linear-gradient(white 0% 15%, #e9f0f6 15% 100%);
+    background: linear-gradient(white 0% 15%, #f9fbfc 15% 100%);
 }
 
 .about-section>div {
@@ -1496,7 +1496,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #e9f0f6;
+    background-color: #f9fbfc;
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -2268,7 +2268,7 @@ body {
 
 footer {
     padding: 50px 5vw;
-    background: linear-gradient(white 0% 12%, #e9f0f6 12% 100%);
+    background: linear-gradient(white 0% 12%, #f9fbfc 12% 100%);
 }
 
 footer > div {
@@ -2494,7 +2494,7 @@ footer > div > .footer-copyrights-and-privacy > .privacy-and-policy > a:hover {
 
 @media (min-width: 320px) and (max-width: 500px) {
     footer {
-        background: linear-gradient(white 0% 6%, #f6f8ff 6% 100%);
+        background: linear-gradient(white 0% 6%, #f9fbfc 6% 100%);
     }
     footer > div > .footer-subscribe-input > h2 {
         font-size: 8vw;
@@ -2533,7 +2533,7 @@ footer > div > .footer-copyrights-and-privacy > .privacy-and-policy > a:hover {
 }
 @media (min-width: 501px) and (max-width: 600px) {
     footer {
-        background: linear-gradient(white 0% 8%, #f6f8ff 8% 100%);
+        background: linear-gradient(white 0% 8%, #f9fbfc 8% 100%);
     }
     footer > div > .footer-subscribe-input > h2 {
         font-size: 8vw;
@@ -2572,7 +2572,7 @@ footer > div > .footer-copyrights-and-privacy > .privacy-and-policy > a:hover {
 }
 @media (min-width: 601px) and (max-width: 1000px) {
     footer {
-        background: linear-gradient(white 0% 8%, #f6f8ff 8% 100%);
+        background: linear-gradient(white 0% 8%, #f9fbfc 8% 100%);
     }
     footer > div > .footer-subscribe-input > h2 {
         font-size: 5vw;
